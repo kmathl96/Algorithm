@@ -5,8 +5,6 @@ def gcd(a,b):
     return gcd(b, a%b)
 
 a,b = map(int, input().split())
-if a > b: ans = gcd(a,b)
-else: ans = gcd(b,a)
-
+ans = gcd(a,b)
 print(ans)
 print(a*b//ans)
