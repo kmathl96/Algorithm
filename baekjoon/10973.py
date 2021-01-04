@@ -4,10 +4,26 @@
 N = int(input())
 num = list(map(int,input().split()))
 tmp = num.index(1)
-for i in range(N-2,-1,-1):
-    if num[i] < num[i+1]: continue
-    for j in range(i+1,N):
-        if num[tmp] < num[j] < num[i]: tmp = j
-    num[tmp],num[i] = num[i],num[tmp]
+for i in range(N-2,-1,-1): # 뒤에서부터 탐색하여 옆자리 수와 크기 비교
+    if num[i] < num[i+1]: continue # 오름차순으로 돼 있는 경우 넘어감
+    for j in range(i+1,N): # 해당 숫자 뒤의 수들 탐색
+        if num[tmp] < num[j] < num[i]: tmp = j # 해당 숫자보다 작으면서, 제일 큰 수 찾기
+    num[tmp],num[i] = num[i],num[tmp] # 찾은 숫자로 자리 대체
     break
+# 뒤의 수들 내림차순으로 정렬하여 반환
+# 순열이 오름차순으로 정렬돼 있는 경우, 초기 tmp값(1의 인덱스)가 0이고 for문을 거치지 않으므로 -1 반환
 print(" ".join(map(str,num[:i+1]+sorted(num[i+1:], reverse=1))) if tmp else -1)
+
+# ex1. 5 3 4 1 2
+# 1) 1 2 - 오름차순이므로 넘어감
+# 2) 4 1 - 내림차순
+#   2-1) 4 뒤의 수들 탐색 - 2
+#   2-2) 4와 2 자리 바꿈 - 5 3 2 1 4
+#   2-3) 뒤의 숫자들 내림차순으로 정렬 - 5 3 2 4 1
+
+# ex2. 5 3 2 1 4
+# 1) 1 4 - 오름차순이므로 넘어감
+# 2) 2 1 - 내림차순
+#   2-1) 2 뒤의 수들 탐색 - 1 (4는 2보다 커서 안 됨)
+#   2-2) 2와 1 자리 바꿈 - 5 3 1 2 4
+#   2-3) 뒤의 숫자들 내림차순으로 정렬 - 5 3 1 4 2
