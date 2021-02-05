@@ -8,12 +8,12 @@
   - 알고리즘 : 해당 문제의 알고리즘 분류 또는 내가 푼 방법
   - 비고 : 내가 풀어볼 방법 또는 공부할 알고리즘
 
-- [백준](https://github.com/kmathl96/Algorithm#baekjoon)
-- [프로그래머스](https://github.com/kmathl96/Algorithm#programmers)
+- [백준](https://github.com/kmathl96/Algorithm#baekjoon-)
+- [프로그래머스](https://github.com/kmathl96/Algorithm#programmers-)
 
 
 
-## Baekjoon
+## Baekjoon :pencil2:
 
 | 문제                                           | 문제 제목                         | 알고리즘                              | 비고                 |
 | ---------------------------------------------- | --------------------------------- | ------------------------------------- | -------------------- |
@@ -91,5 +91,5 @@
 
 
 
-## Programmers
+## Programmers :pencil2:
 
