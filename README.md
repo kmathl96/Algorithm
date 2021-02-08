@@ -6,7 +6,7 @@
   - 문제 : 해당 문제 페이지로 이동
   - 문제 제목 : 내 풀이 코드
   - 알고리즘 : 해당 문제의 알고리즘 분류 또는 내가 푼 방법
-  - 비고 : 내가 풀어볼 방법 또는 공부할 알고리즘, 기타
+  - 비고 : 내가 풀어볼 방법 또는 공부할 알고리즘, 문제 출처, 기타
 
 - [백준](https://github.com/kmathl96/Algorithm#baekjoon)
 - [프로그래머스](https://github.com/kmathl96/Algorithm#programmers)
@@ -92,6 +92,7 @@
 | [17439](https://www.acmicpc.net/problem/17439) | [꽃집](https://github.com/kmathl96/Algorithm/blob/master/baekjoon/201231_%EC%83%88%ED%95%B4/e.py) | 브루트 포스, 백트래킹                                        | :memo: _2020-12-31 ​새해_<br />:alarm_clock: ​시간 초과<br />DP, 이분 탐색, Alien 트릭, 단조 큐를 이용한 최적화 |
 | [17471](https://www.acmicpc.net/problem/17471) | [게리맨더링](https://github.com/kmathl96/Algorithm/blob/master/baekjoon/17471.py) | DFS, 브루트 포스                                             |                                                              |
 | [17472](https://www.acmicpc.net/problem/17472) | [다리 만들기 2](https://github.com/kmathl96/Algorithm/blob/master/baekjoon/17472.py) | 구현, 브루트 포스, BFS, MST, 크루스칼                        |                                                              |
+| [17779](https://www.acmicpc.net/problem/17779) | [게리맨더링 2](https://github.com/kmathl96/Algorithm/blob/master/baekjoon/17779.py) | 구현, 브루트 포스, 시뮬레이션                                |                                                              |
 | [20528](https://www.acmicpc.net/problem/20528) | [끝말잇기](https://github.com/kmathl96/Algorithm/blob/master/baekjoon/201231_GoodByeBOJ2020/a.py) | 문자열                                                       | :memo: _2020-12-31 Good Bye, BOJ 2020!_<br />애드 혹         |
 | [20529](https://www.acmicpc.net/problem/20529) | [가장 가까운 세 사람의 심리적 거리](https://github.com/kmathl96/Algorithm/blob/master/baekjoon/20529.py) | 브루트 포스, 비둘기집의 원리                                 | :memo: _2020-12-31 Good Bye, BOJ 2020!_                      |
 
@@ -102,49 +103,49 @@
 
 ### Level 1
 
-| 문제                                                         | 문제 제목                    | 알고리즘 | 비고                               |
-| ------------------------------------------------------------ | ---------------------------- | -------- | ---------------------------------- |
-| [12901](https://programmers.co.kr/learn/courses/30/lessons/12901) | 2016년                       |          |                                    |
-| [12903](https://programmers.co.kr/learn/courses/30/lessons/12903) | 가운데 글자 가져오기         |          |                                    |
-| [12906](https://programmers.co.kr/learn/courses/30/lessons/12906) | 같은 숫자는 싫어             |          |                                    |
-| [12910](https://programmers.co.kr/learn/courses/30/lessons/12910) | 나누어 떨어지는 숫자 배열    |          |                                    |
-| [12912](https://programmers.co.kr/learn/courses/30/lessons/12912) | 두 정수 사이의 합            |          |                                    |
-| [12915](https://programmers.co.kr/learn/courses/30/lessons/12915) | 문자열 내 마음대로 정렬하기  |          |                                    |
-| [12916](https://programmers.co.kr/learn/courses/30/lessons/12916) | 문자열 내 p와 y의 개수       |          |                                    |
-| [12917](https://programmers.co.kr/learn/courses/30/lessons/12917) | 문자열 내림차순으로 배치하기 |          |                                    |
-| [12918](https://programmers.co.kr/learn/courses/30/lessons/12918) | 문자열 다루기 기본           |          |                                    |
-| [12919](https://programmers.co.kr/learn/courses/30/lessons/12919) | 서울에서 김서방 찾기         |          |                                    |
-| [12921](https://programmers.co.kr/learn/courses/30/lessons/12921) | 소수 찾기                    |          |                                    |
-| [12922](https://programmers.co.kr/learn/courses/30/lessons/12922) | 수박수박수박수박수박수?      |          |                                    |
-| [12925](https://programmers.co.kr/learn/courses/30/lessons/12925) | 문자열을 정수로 바꾸기       |          |                                    |
-| [12926](https://programmers.co.kr/learn/courses/30/lessons/12926) | 시저 암호                    |          |                                    |
-| [12928](https://programmers.co.kr/learn/courses/30/lessons/12928) | 약수의 합                    |          |                                    |
-| [12930](https://programmers.co.kr/learn/courses/30/lessons/12930) | 이상한 문자 만들기           |          |                                    |
-| [12931](https://programmers.co.kr/learn/courses/30/lessons/12931) | 자릿수 더하기                |          |                                    |
-| [12932](https://programmers.co.kr/learn/courses/30/lessons/12932) | 자연수 뒤집어 배열로 만들기  |          |                                    |
-| [12933](https://programmers.co.kr/learn/courses/30/lessons/12933) | 정수 내림차순으로 배치하기   |          |                                    |
-| [12982](https://programmers.co.kr/learn/courses/30/lessons/12982) | 예산                         |          | :memo:Summer/Winter Coding(~2018)  |
-| [42576](https://programmers.co.kr/learn/courses/30/lessons/42576) | 완주하지 못한 선수           |          |                                    |
-| [42748](https://programmers.co.kr/learn/courses/30/lessons/42748) | K번째수                      |          |                                    |
-| [42840](https://programmers.co.kr/learn/courses/30/lessons/42840) | 모의고사                     |          |                                    |
-| [42889](https://programmers.co.kr/learn/courses/30/lessons/42889) | 실패율                       |          | :memo:2019 KAKAO BLIND RECRUITMENT |
-| [67256](https://programmers.co.kr/learn/courses/30/lessons/62756) | [카카오 인턴] 키패드 누르기  |          | :memo:2020 카카오 인턴십           |
-| [68644](https://programmers.co.kr/learn/courses/30/lessons/68644) | 두 개 뽑아서 더하기          |          | :memo:월간 코드 챌린지 시즌1       |
-| [68935](https://programmers.co.kr/learn/courses/30/lessons/68935) | 3진법 뒤집기                 |          | :memo:월간 코드 챌린지 시즌1       |
-| [70128](https://programmers.co.kr/learn/courses/30/lessons/70128) | 내적                         |          | :memo:월간 코드 챌린지 시즌1       |
+| 문제                                                         | 문제 제목                    | 알고리즘 | 비고                                  |
+| ------------------------------------------------------------ | ---------------------------- | -------- | ------------------------------------- |
+| [12901](https://programmers.co.kr/learn/courses/30/lessons/12901) | 2016년                       |          |                                       |
+| [12903](https://programmers.co.kr/learn/courses/30/lessons/12903) | 가운데 글자 가져오기         |          |                                       |
+| [12906](https://programmers.co.kr/learn/courses/30/lessons/12906) | 같은 숫자는 싫어             |          |                                       |
+| [12910](https://programmers.co.kr/learn/courses/30/lessons/12910) | 나누어 떨어지는 숫자 배열    |          |                                       |
+| [12912](https://programmers.co.kr/learn/courses/30/lessons/12912) | 두 정수 사이의 합            |          |                                       |
+| [12915](https://programmers.co.kr/learn/courses/30/lessons/12915) | 문자열 내 마음대로 정렬하기  |          |                                       |
+| [12916](https://programmers.co.kr/learn/courses/30/lessons/12916) | 문자열 내 p와 y의 개수       |          |                                       |
+| [12917](https://programmers.co.kr/learn/courses/30/lessons/12917) | 문자열 내림차순으로 배치하기 |          |                                       |
+| [12918](https://programmers.co.kr/learn/courses/30/lessons/12918) | 문자열 다루기 기본           |          |                                       |
+| [12919](https://programmers.co.kr/learn/courses/30/lessons/12919) | 서울에서 김서방 찾기         |          |                                       |
+| [12921](https://programmers.co.kr/learn/courses/30/lessons/12921) | 소수 찾기                    |          |                                       |
+| [12922](https://programmers.co.kr/learn/courses/30/lessons/12922) | 수박수박수박수박수박수?      |          |                                       |
+| [12925](https://programmers.co.kr/learn/courses/30/lessons/12925) | 문자열을 정수로 바꾸기       |          |                                       |
+| [12926](https://programmers.co.kr/learn/courses/30/lessons/12926) | 시저 암호                    |          |                                       |
+| [12928](https://programmers.co.kr/learn/courses/30/lessons/12928) | 약수의 합                    |          |                                       |
+| [12930](https://programmers.co.kr/learn/courses/30/lessons/12930) | 이상한 문자 만들기           |          |                                       |
+| [12931](https://programmers.co.kr/learn/courses/30/lessons/12931) | 자릿수 더하기                |          |                                       |
+| [12932](https://programmers.co.kr/learn/courses/30/lessons/12932) | 자연수 뒤집어 배열로 만들기  |          |                                       |
+| [12933](https://programmers.co.kr/learn/courses/30/lessons/12933) | 정수 내림차순으로 배치하기   |          |                                       |
+| [12982](https://programmers.co.kr/learn/courses/30/lessons/12982) | 예산                         |          | :memo: _Summer/Winter Coding(~2018)_  |
+| [42576](https://programmers.co.kr/learn/courses/30/lessons/42576) | 완주하지 못한 선수           |          |                                       |
+| [42748](https://programmers.co.kr/learn/courses/30/lessons/42748) | K번째수                      |          |                                       |
+| [42840](https://programmers.co.kr/learn/courses/30/lessons/42840) | 모의고사                     |          |                                       |
+| [42889](https://programmers.co.kr/learn/courses/30/lessons/42889) | 실패율                       |          | :memo: _2019 KAKAO BLIND RECRUITMENT_ |
+| [67256](https://programmers.co.kr/learn/courses/30/lessons/62756) | [카카오 인턴] 키패드 누르기  |          | :memo: _2020 카카오 인턴십_           |
+| [68644](https://programmers.co.kr/learn/courses/30/lessons/68644) | 두 개 뽑아서 더하기          |          | :memo: _월간 코드 챌린지 시즌1_       |
+| [68935](https://programmers.co.kr/learn/courses/30/lessons/68935) | 3진법 뒤집기                 |          | :memo: _월간 코드 챌린지 시즌1_       |
+| [70128](https://programmers.co.kr/learn/courses/30/lessons/70128) | 내적                         |          | :memo: _월간 코드 챌린지 시즌1_       |
 
 
 
 ### Level 2
 
 
-| 문제                                                         | 문제 제목          | 알고리즘 | 비고                              |
-| ------------------------------------------------------------ | ------------------ | -------- | --------------------------------- |
-| [12899](https://programmers.co.kr/learn/courses/30/lessons/12899) | 124 나라의 숫자    |          |                                   |
-| [42583](https://programmers.co.kr/learn/courses/30/lessons/42583) | 다리를 지나는 트럭 |          |                                   |
-| [42584](https://programmers.co.kr/learn/courses/30/lessons/42584) | 주식가격           |          |                                   |
-| [42586](https://programmers.co.kr/learn/courses/30/lessons/42586) | 기능개발           |          |                                   |
-| [42587](https://programmers.co.kr/learn/courses/30/lessons/42587) | 프린터             |          |                                   |
-| [42747](https://programmers.co.kr/learn/courses/30/lessons/42747) | H-Index            |          |                                   |
-| [42839](https://programmers.co.kr/learn/courses/30/lessons/42839) | 소수 찾기          |          |                                   |
-| [49993](https://programmers.co.kr/learn/courses/30/lessons/49993) | 스킬트리           |          | :memo:Summer/Winter Coding(~2018) |
+| 문제                                                         | 문제 제목          | 알고리즘 | 비고                                 |
+| ------------------------------------------------------------ | ------------------ | -------- | ------------------------------------ |
+| [12899](https://programmers.co.kr/learn/courses/30/lessons/12899) | 124 나라의 숫자    |          |                                      |
+| [42583](https://programmers.co.kr/learn/courses/30/lessons/42583) | 다리를 지나는 트럭 |          |                                      |
+| [42584](https://programmers.co.kr/learn/courses/30/lessons/42584) | 주식가격           |          |                                      |
+| [42586](https://programmers.co.kr/learn/courses/30/lessons/42586) | 기능개발           |          |                                      |
+| [42587](https://programmers.co.kr/learn/courses/30/lessons/42587) | 프린터             |          |                                      |
+| [42747](https://programmers.co.kr/learn/courses/30/lessons/42747) | H-Index            |          |                                      |
+| [42839](https://programmers.co.kr/learn/courses/30/lessons/42839) | 소수 찾기          |          |                                      |
+| [49993](https://programmers.co.kr/learn/courses/30/lessons/49993) | 스킬트리           |          | :memo: _Summer/Winter Coding(~2018)_ |
