@@ -10,8 +10,8 @@
 
 - [백준](https://github.com/kmathl96/Algorithm#baekjoon)
 - [프로그래머스](https://github.com/kmathl96/Algorithm#programmers)
-  - [Level 1](https://github.com/kmathl96/Algorithm#level1) :egg:
-  - [Level 2](https://github.com/kmathl96/Algorithm#level2) :hatching_chick:
+  - [Level 1](https://github.com/kmathl96/Algorithm#level-1) :egg:
+  - [Level 2](https://github.com/kmathl96/Algorithm#level-2) :hatching_chick:
 
 
 
@@ -103,49 +103,49 @@
 
 ### Level 1
 
-| 문제                                                         | 문제 제목                    | 알고리즘 | 비고                                  |
-| ------------------------------------------------------------ | ---------------------------- | -------- | ------------------------------------- |
-| [12901](https://programmers.co.kr/learn/courses/30/lessons/12901) | 2016년                       |          |                                       |
-| [12903](https://programmers.co.kr/learn/courses/30/lessons/12903) | 가운데 글자 가져오기         |          |                                       |
-| [12906](https://programmers.co.kr/learn/courses/30/lessons/12906) | 같은 숫자는 싫어             |          |                                       |
-| [12910](https://programmers.co.kr/learn/courses/30/lessons/12910) | 나누어 떨어지는 숫자 배열    |          |                                       |
-| [12912](https://programmers.co.kr/learn/courses/30/lessons/12912) | 두 정수 사이의 합            |          |                                       |
-| [12915](https://programmers.co.kr/learn/courses/30/lessons/12915) | 문자열 내 마음대로 정렬하기  |          |                                       |
-| [12916](https://programmers.co.kr/learn/courses/30/lessons/12916) | 문자열 내 p와 y의 개수       |          |                                       |
-| [12917](https://programmers.co.kr/learn/courses/30/lessons/12917) | 문자열 내림차순으로 배치하기 |          |                                       |
-| [12918](https://programmers.co.kr/learn/courses/30/lessons/12918) | 문자열 다루기 기본           |          |                                       |
-| [12919](https://programmers.co.kr/learn/courses/30/lessons/12919) | 서울에서 김서방 찾기         |          |                                       |
-| [12921](https://programmers.co.kr/learn/courses/30/lessons/12921) | 소수 찾기                    |          |                                       |
-| [12922](https://programmers.co.kr/learn/courses/30/lessons/12922) | 수박수박수박수박수박수?      |          |                                       |
-| [12925](https://programmers.co.kr/learn/courses/30/lessons/12925) | 문자열을 정수로 바꾸기       |          |                                       |
-| [12926](https://programmers.co.kr/learn/courses/30/lessons/12926) | 시저 암호                    |          |                                       |
-| [12928](https://programmers.co.kr/learn/courses/30/lessons/12928) | 약수의 합                    |          |                                       |
-| [12930](https://programmers.co.kr/learn/courses/30/lessons/12930) | 이상한 문자 만들기           |          |                                       |
-| [12931](https://programmers.co.kr/learn/courses/30/lessons/12931) | 자릿수 더하기                |          |                                       |
-| [12932](https://programmers.co.kr/learn/courses/30/lessons/12932) | 자연수 뒤집어 배열로 만들기  |          |                                       |
-| [12933](https://programmers.co.kr/learn/courses/30/lessons/12933) | 정수 내림차순으로 배치하기   |          |                                       |
-| [12982](https://programmers.co.kr/learn/courses/30/lessons/12982) | 예산                         |          | :memo: _Summer/Winter Coding(~2018)_  |
-| [42576](https://programmers.co.kr/learn/courses/30/lessons/42576) | 완주하지 못한 선수           |          |                                       |
-| [42748](https://programmers.co.kr/learn/courses/30/lessons/42748) | K번째수                      |          |                                       |
-| [42840](https://programmers.co.kr/learn/courses/30/lessons/42840) | 모의고사                     |          |                                       |
-| [42889](https://programmers.co.kr/learn/courses/30/lessons/42889) | 실패율                       |          | :memo: _2019 KAKAO BLIND RECRUITMENT_ |
-| [67256](https://programmers.co.kr/learn/courses/30/lessons/62756) | [카카오 인턴] 키패드 누르기  |          | :memo: _2020 카카오 인턴십_           |
-| [68644](https://programmers.co.kr/learn/courses/30/lessons/68644) | 두 개 뽑아서 더하기          |          | :memo: _월간 코드 챌린지 시즌1_       |
-| [68935](https://programmers.co.kr/learn/courses/30/lessons/68935) | 3진법 뒤집기                 |          | :memo: _월간 코드 챌린지 시즌1_       |
-| [70128](https://programmers.co.kr/learn/courses/30/lessons/70128) | 내적                         |          | :memo: _월간 코드 챌린지 시즌1_       |
+| 문제                                                         | 문제 제목                                                    | 알고리즘    | 비고                                  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ----------- | ------------------------------------- |
+| [12901](https://programmers.co.kr/learn/courses/30/lessons/12901) | [2016년](https://github.com/kmathl96/Algorithm/blob/master/programmers/level1/12901.py) |             |                                       |
+| [12903](https://programmers.co.kr/learn/courses/30/lessons/12903) | [가운데 글자 가져오기](https://github.com/kmathl96/Algorithm/blob/master/programmers/level1/12903.py) |             |                                       |
+| [12906](https://programmers.co.kr/learn/courses/30/lessons/12906) | [같은 숫자는 싫어](https://github.com/kmathl96/Algorithm/blob/master/programmers/level1/12906.py) |             |                                       |
+| [12910](https://programmers.co.kr/learn/courses/30/lessons/12910) | [나누어 떨어지는 숫자 배열](https://github.com/kmathl96/Algorithm/blob/master/programmers/level1/12910.py) |             |                                       |
+| [12912](https://programmers.co.kr/learn/courses/30/lessons/12912) | [두 정수 사이의 합](https://github.com/kmathl96/Algorithm/blob/master/programmers/level1/12912.py) |             |                                       |
+| [12915](https://programmers.co.kr/learn/courses/30/lessons/12915) | [문자열 내 마음대로 정렬하기](https://github.com/kmathl96/Algorithm/blob/master/programmers/level1/12915.py) |             |                                       |
+| [12916](https://programmers.co.kr/learn/courses/30/lessons/12916) | [문자열 내 p와 y의 개수](https://github.com/kmathl96/Algorithm/blob/master/programmers/level1/12916.py) |             |                                       |
+| [12917](https://programmers.co.kr/learn/courses/30/lessons/12917) | [문자열 내림차순으로 배치하기](https://github.com/kmathl96/Algorithm/blob/master/programmers/level1/12917.py) |             |                                       |
+| [12918](https://programmers.co.kr/learn/courses/30/lessons/12918) | [문자열 다루기 기본](https://github.com/kmathl96/Algorithm/blob/master/programmers/level1/12918.py) |             |                                       |
+| [12919](https://programmers.co.kr/learn/courses/30/lessons/12919) | [서울에서 김서방 찾기](https://github.com/kmathl96/Algorithm/blob/master/programmers/level1/12919.py) |             |                                       |
+| [12921](https://programmers.co.kr/learn/courses/30/lessons/12921) | [소수 찾기](https://github.com/kmathl96/Algorithm/blob/master/programmers/level1/12921.py) |             |                                       |
+| [12922](https://programmers.co.kr/learn/courses/30/lessons/12922) | [수박수박수박수박수박수?](https://github.com/kmathl96/Algorithm/blob/master/programmers/level1/12922.py) |             |                                       |
+| [12925](https://programmers.co.kr/learn/courses/30/lessons/12925) | [문자열을 정수로 바꾸기](https://github.com/kmathl96/Algorithm/blob/master/programmers/level1/12925.py) |             |                                       |
+| [12926](https://programmers.co.kr/learn/courses/30/lessons/12926) | [시저 암호](https://github.com/kmathl96/Algorithm/blob/master/programmers/level1/12926.py) |             |                                       |
+| [12928](https://programmers.co.kr/learn/courses/30/lessons/12928) | [약수의 합](https://github.com/kmathl96/Algorithm/blob/master/programmers/level1/12928.py) |             |                                       |
+| [12930](https://programmers.co.kr/learn/courses/30/lessons/12930) | [이상한 문자 만들기](https://github.com/kmathl96/Algorithm/blob/master/programmers/level1/12930.py) |             |                                       |
+| [12931](https://programmers.co.kr/learn/courses/30/lessons/12931) | [자릿수 더하기](https://github.com/kmathl96/Algorithm/blob/master/programmers/level1/12931.py) |             |                                       |
+| [12932](https://programmers.co.kr/learn/courses/30/lessons/12932) | [자연수 뒤집어 배열로 만들기](https://github.com/kmathl96/Algorithm/blob/master/programmers/level1/12932.py) |             |                                       |
+| [12933](https://programmers.co.kr/learn/courses/30/lessons/12933) | [정수 내림차순으로 배치하기](https://github.com/kmathl96/Algorithm/blob/master/programmers/level1/12933.py) |             |                                       |
+| [12982](https://programmers.co.kr/learn/courses/30/lessons/12982) | [예산](https://github.com/kmathl96/Algorithm/blob/master/programmers/level1/12982.py) |             | :memo: _Summer/Winter Coding(~2018)_  |
+| [42576](https://programmers.co.kr/learn/courses/30/lessons/42576) | [완주하지 못한 선수](https://github.com/kmathl96/Algorithm/blob/master/programmers/level1/42576.py) | 해시        |                                       |
+| [42748](https://programmers.co.kr/learn/courses/30/lessons/42748) | [K번째수](https://github.com/kmathl96/Algorithm/blob/master/programmers/level1/42748.py) | 정렬        |                                       |
+| [42840](https://programmers.co.kr/learn/courses/30/lessons/42840) | [모의고사](https://github.com/kmathl96/Algorithm/blob/master/programmers/level1/42840.py) | 브루트 포스 |                                       |
+| [42889](https://programmers.co.kr/learn/courses/30/lessons/42889) | [실패율](https://github.com/kmathl96/Algorithm/blob/master/programmers/level1/42889.py) |             | :memo: _2019 KAKAO BLIND RECRUITMENT_ |
+| [67256](https://programmers.co.kr/learn/courses/30/lessons/62756) | [[카카오 인턴] 키패드 누르기](https://github.com/kmathl96/Algorithm/blob/master/programmers/level1/67256.py) |             | :memo: _2020 카카오 인턴십_           |
+| [68644](https://programmers.co.kr/learn/courses/30/lessons/68644) | [두 개 뽑아서 더하기](https://github.com/kmathl96/Algorithm/blob/master/programmers/level1/68644.py) |             | :memo: _월간 코드 챌린지 시즌1_       |
+| [68935](https://programmers.co.kr/learn/courses/30/lessons/68935) | [3진법 뒤집기](https://github.com/kmathl96/Algorithm/blob/master/programmers/level1/68935.py) |             | :memo: _월간 코드 챌린지 시즌1_       |
+| [70128](https://programmers.co.kr/learn/courses/30/lessons/70128) | [내적](https://github.com/kmathl96/Algorithm/blob/master/programmers/level1/70128.py) |             | :memo: _월간 코드 챌린지 시즌1_       |
 
 
 
 ### Level 2
 
 
-| 문제                                                         | 문제 제목          | 알고리즘 | 비고                                 |
-| ------------------------------------------------------------ | ------------------ | -------- | ------------------------------------ |
-| [12899](https://programmers.co.kr/learn/courses/30/lessons/12899) | 124 나라의 숫자    |          |                                      |
-| [42583](https://programmers.co.kr/learn/courses/30/lessons/42583) | 다리를 지나는 트럭 |          |                                      |
-| [42584](https://programmers.co.kr/learn/courses/30/lessons/42584) | 주식가격           |          |                                      |
-| [42586](https://programmers.co.kr/learn/courses/30/lessons/42586) | 기능개발           |          |                                      |
-| [42587](https://programmers.co.kr/learn/courses/30/lessons/42587) | 프린터             |          |                                      |
-| [42747](https://programmers.co.kr/learn/courses/30/lessons/42747) | H-Index            |          |                                      |
-| [42839](https://programmers.co.kr/learn/courses/30/lessons/42839) | 소수 찾기          |          |                                      |
-| [49993](https://programmers.co.kr/learn/courses/30/lessons/49993) | 스킬트리           |          | :memo: _Summer/Winter Coding(~2018)_ |
+| 문제                                                         | 문제 제목                                                    | 알고리즘    | 비고                                 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ----------- | ------------------------------------ |
+| [12899](https://programmers.co.kr/learn/courses/30/lessons/12899) | [124 나라의 숫자](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/12899.py) |             |                                      |
+| [42583](https://programmers.co.kr/learn/courses/30/lessons/42583) | [다리를 지나는 트럭](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/42583.py) | 스택/큐     |                                      |
+| [42584](https://programmers.co.kr/learn/courses/30/lessons/42584) | [주식가격](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/42584.py) | 스택/큐     |                                      |
+| [42586](https://programmers.co.kr/learn/courses/30/lessons/42586) | [기능개발](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/42586.py) | 스택/큐     |                                      |
+| [42587](https://programmers.co.kr/learn/courses/30/lessons/42587) | [프린터](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/42587.py) | 스택/큐     |                                      |
+| [42747](https://programmers.co.kr/learn/courses/30/lessons/42747) | [H-Index](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/42747.py) | 정렬        |                                      |
+| [42839](https://programmers.co.kr/learn/courses/30/lessons/42839) | [소수 찾기](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/42839.py) | 브루트 포스 |                                      |
+| [49993](https://programmers.co.kr/learn/courses/30/lessons/49993) | [스킬트리](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/49993.py) |             | :memo: _Summer/Winter Coding(~2018)_ |
