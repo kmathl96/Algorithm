@@ -95,6 +95,7 @@
 | [17471](https://www.acmicpc.net/problem/17471) | [게리맨더링](https://github.com/kmathl96/Algorithm/blob/master/baekjoon/17471.py) | DFS, 브루트 포스                                             |                                                              |
 | [17472](https://www.acmicpc.net/problem/17472) | [다리 만들기 2](https://github.com/kmathl96/Algorithm/blob/master/baekjoon/17472.py) | 구현, 브루트 포스, BFS, MST, 크루스칼                        |                                                              |
 | [17779](https://www.acmicpc.net/problem/17779) | [게리맨더링 2](https://github.com/kmathl96/Algorithm/blob/master/baekjoon/17779.py) | 구현, 브루트 포스, 시뮬레이션                                |                                                              |
+| [17837](https://www.acmicpc.net/problem/17837) | [새로운 게임 2](https://github.com/kmathl96/Algorithm/blob/master/baekjoon/17837.py) | 구현, 시뮬레이션                                             |                                                              |
 | [20528](https://www.acmicpc.net/problem/20528) | [끝말잇기](https://github.com/kmathl96/Algorithm/blob/master/baekjoon/201231_GoodByeBOJ2020/a.py) | 문자열                                                       | :memo: _2020-12-31 Good Bye, BOJ 2020!_<br />애드 혹         |
 | [20529](https://www.acmicpc.net/problem/20529) | [가장 가까운 세 사람의 심리적 거리](https://github.com/kmathl96/Algorithm/blob/master/baekjoon/20529.py) | 브루트 포스, 비둘기집의 원리                                 | :memo: _2020-12-31 Good Bye, BOJ 2020!_                      |
 
