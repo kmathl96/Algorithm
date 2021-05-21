@@ -154,5 +154,6 @@
 | [42587](https://programmers.co.kr/learn/courses/30/lessons/42587) | [프린터](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/42587.py) | 스택/큐                      |                                      |
 | [42747](https://programmers.co.kr/learn/courses/30/lessons/42747) | [H-Index](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/42747.py) | 정렬                         |                                      |
 | [42839](https://programmers.co.kr/learn/courses/30/lessons/42839) | [소수 찾기](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/42839.py) | 브루트 포스                  |                                      |
+| [42842](https://programmers.co.kr/learn/courses/30/lessons/42842) | [카펫]((https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/42842.py)) | 완전탐색                     |                                      |
 | [43165](https://programmers.co.kr/learn/courses/30/lessons/43165) | [타겟 넘버](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/43165.py) | 깊이/너비 우선 탐색(DFS/BFS) |                                      |
 | [49993](https://programmers.co.kr/learn/courses/30/lessons/49993) | [스킬트리](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/49993.py) |                              | :memo: _Summer/Winter Coding(~2018)_ |
