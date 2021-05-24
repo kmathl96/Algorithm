@@ -145,18 +145,19 @@
 ### Level 2
 
 
-| 문제                                                         | 문제 제목                                                    | 알고리즘                     | 비고                                 |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | ------------------------------------ |
-| [12899](https://programmers.co.kr/learn/courses/30/lessons/12899) | [124 나라의 숫자](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/12899.py) |                              |                                      |
-| [12939](https://programmers.co.kr/learn/courses/30/lessons/12939) | [최댓값과 최솟값](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/12939.py) |                              |                                      |
-| [42578](https://programmers.co.kr/learn/courses/30/lessons/42578) | [위장]((https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/42578.py)) | 해시                         |                                      |
-| [42583](https://programmers.co.kr/learn/courses/30/lessons/42583) | [다리를 지나는 트럭](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/42583.py) | 스택/큐                      |                                      |
-| [42584](https://programmers.co.kr/learn/courses/30/lessons/42584) | [주식가격](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/42584.py) | 스택/큐                      |                                      |
-| [42586](https://programmers.co.kr/learn/courses/30/lessons/42586) | [기능개발](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/42586.py) | 스택/큐                      |                                      |
-| [42587](https://programmers.co.kr/learn/courses/30/lessons/42587) | [프린터](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/42587.py) | 스택/큐                      |                                      |
-| [42747](https://programmers.co.kr/learn/courses/30/lessons/42747) | [H-Index](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/42747.py) | 정렬                         |                                      |
-| [42839](https://programmers.co.kr/learn/courses/30/lessons/42839) | [소수 찾기](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/42839.py) | 브루트 포스                  |                                      |
-| [42842](https://programmers.co.kr/learn/courses/30/lessons/42842) | [카펫](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/42842.py) | 완전탐색                     |                                      |
-| [42883](https://programmers.co.kr/learn/courses/30/lessons/42883) | [큰 수 만들기](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/42883.py) |                              |                                      |
-| [43165](https://programmers.co.kr/learn/courses/30/lessons/43165) | [타겟 넘버](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/43165.py) | 깊이/너비 우선 탐색(DFS/BFS) |                                      |
-| [49993](https://programmers.co.kr/learn/courses/30/lessons/49993) | [스킬트리](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/49993.py) |                              | :memo: _Summer/Winter Coding(~2018)_ |
+| 문제                                                         | 문제 제목                                                    | 알고리즘                     | 비고                                  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | ------------------------------------- |
+| [12899](https://programmers.co.kr/learn/courses/30/lessons/12899) | [124 나라의 숫자](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/12899.py) |                              |                                       |
+| [12939](https://programmers.co.kr/learn/courses/30/lessons/12939) | [최댓값과 최솟값](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/12939.py) |                              |                                       |
+| [42578](https://programmers.co.kr/learn/courses/30/lessons/42578) | [위장](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/42578.py) | 해시                         |                                       |
+| [42583](https://programmers.co.kr/learn/courses/30/lessons/42583) | [다리를 지나는 트럭](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/42583.py) | 스택/큐                      |                                       |
+| [42584](https://programmers.co.kr/learn/courses/30/lessons/42584) | [주식가격](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/42584.py) | 스택/큐                      |                                       |
+| [42586](https://programmers.co.kr/learn/courses/30/lessons/42586) | [기능개발](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/42586.py) | 스택/큐                      |                                       |
+| [42587](https://programmers.co.kr/learn/courses/30/lessons/42587) | [프린터](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/42587.py) | 스택/큐                      |                                       |
+| [42747](https://programmers.co.kr/learn/courses/30/lessons/42747) | [H-Index](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/42747.py) | 정렬                         |                                       |
+| [42839](https://programmers.co.kr/learn/courses/30/lessons/42839) | [소수 찾기](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/42839.py) | 브루트 포스                  |                                       |
+| [42842](https://programmers.co.kr/learn/courses/30/lessons/42842) | [카펫](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/42842.py) | 완전탐색                     |                                       |
+| [42883](https://programmers.co.kr/learn/courses/30/lessons/42883) | [큰 수 만들기](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/42883.py) | 탐욕법(Greedy)               |                                       |
+| [42888](https://programmers.co.kr/learn/courses/30/lessons/42888) | [오픈채팅방](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/42888.py) |                              | :memo: _2019 KAKAO BLIND RECRUITMENT_ |
+| [43165](https://programmers.co.kr/learn/courses/30/lessons/43165) | [타겟 넘버](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/43165.py) | 깊이/너비 우선 탐색(DFS/BFS) |                                       |
+| [49993](https://programmers.co.kr/learn/courses/30/lessons/49993) | [스킬트리](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/49993.py) |                              | :memo: _Summer/Winter Coding(~2018)_  |
