@@ -148,6 +148,7 @@
 | 문제                                                         | 문제 제목                                                    | 알고리즘                     | 비고                                 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | ------------------------------------ |
 | [12899](https://programmers.co.kr/learn/courses/30/lessons/12899) | [124 나라의 숫자](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/12899.py) |                              |                                      |
+| [12939](https://programmers.co.kr/learn/courses/30/lessons/12939) | [최댓값과 최솟값](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/12939.py) |                              |                                      |
 | [42578](https://programmers.co.kr/learn/courses/30/lessons/42578) | [위장]((https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/42578.py)) | 해시                         |                                      |
 | [42583](https://programmers.co.kr/learn/courses/30/lessons/42583) | [다리를 지나는 트럭](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/42583.py) | 스택/큐                      |                                      |
 | [42584](https://programmers.co.kr/learn/courses/30/lessons/42584) | [주식가격](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/42584.py) | 스택/큐                      |                                      |
