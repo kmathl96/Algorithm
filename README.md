@@ -162,4 +162,5 @@
 | [42888](https://programmers.co.kr/learn/courses/30/lessons/42888) | [오픈채팅방](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/42888.py) |                              | :memo: _2019 KAKAO BLIND RECRUITMENT_ |
 | [43165](https://programmers.co.kr/learn/courses/30/lessons/43165) | [타겟 넘버](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/43165.py) | 깊이/너비 우선 탐색(DFS/BFS) |                                       |
 | [49993](https://programmers.co.kr/learn/courses/30/lessons/49993) | [스킬트리](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/49993.py) |                              | :memo: _Summer/Winter Coding(~2018)_  |
+| [60057](https://programmers.co.kr/learn/courses/30/lessons/60057) | [문자열 압축](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/60057.py) |                              | :memo: _2020 KAKAO BLIND RECRUITMENT_ |
 | [62048](https://programmers.co.kr/learn/courses/30/lessons/62048) | [멀쩡한 사각형](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/62048.py) | 유클리드 호제법              | :memo: _Summer/Winter Coding(2019)_   |
