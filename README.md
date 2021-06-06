@@ -132,6 +132,7 @@
 | [12933](https://programmers.co.kr/learn/courses/30/lessons/12933) | [정수 내림차순으로 배치하기](https://github.com/kmathl96/Algorithm/blob/master/programmers/level1/12933.py) |             |                                       |
 | [12982](https://programmers.co.kr/learn/courses/30/lessons/12982) | [예산](https://github.com/kmathl96/Algorithm/blob/master/programmers/level1/12982.py) |             | :memo: _Summer/Winter Coding(~2018)_  |
 | [17681](https://programmers.co.kr/learn/courses/30/lessons/17681) | [[1차] 비밀지도](https://github.com/kmathl96/Algorithm/blob/master/programmers/level1/17681.py) |             | :memo: _2018 KAKAO BLIND RECRUITMENT_ |
+| [17682](https://programmers.co.kr/learn/courses/30/lessons/17682) | [[1차] 다트 게임](https://github.com/kmathl96/Algorithm/blob/master/programmers/level1/17682.py) |             | :memo: _2018 KAKAO BLIND RECRUITMENT_ |
 | [42576](https://programmers.co.kr/learn/courses/30/lessons/42576) | [완주하지 못한 선수](https://github.com/kmathl96/Algorithm/blob/master/programmers/level1/42576.py) | 해시        |                                       |
 | [42748](https://programmers.co.kr/learn/courses/30/lessons/42748) | [K번째수](https://github.com/kmathl96/Algorithm/blob/master/programmers/level1/42748.py) | 정렬        |                                       |
 | [42840](https://programmers.co.kr/learn/courses/30/lessons/42840) | [모의고사](https://github.com/kmathl96/Algorithm/blob/master/programmers/level1/42840.py) | 브루트 포스 |                                       |
