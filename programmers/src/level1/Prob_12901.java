@@ -1,13 +1,17 @@
+/*
+ * 2016년
+ */
+
 package level1;
 
 public class Prob_12901 {
 	public static void main(String[] args) {
-		Solution s = new Solution();
+		Solution_12901 s = new Solution_12901();
 		System.out.println(s.solution(5, 24)); // "TUE"
 	}
 }
 
-class Solution {
+class Solution_12901 {
 	int[] month = {31,29,31,30,31,30,31,31,30,31,30,31}; // 각 달의 날짜 수
 	String[] week = {"THU","FRI","SAT","SUN","MON","TUE","WED"}; // 2016/1/1는 FRI이기 때문에 THU부터 시작
 	
