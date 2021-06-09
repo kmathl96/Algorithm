@@ -5,9 +5,10 @@
 - 표 설명 :mag:
   - 문제 : 해당 문제 페이지로 이동
   - 문제 제목 : 내 풀이 코드
+    - 문제 제목 옆에 언어를 구분해놓지 않은 문제는 `Python`으로 풂
   - 알고리즘 : 해당 문제의 알고리즘 분류 또는 내가 푼 방법
-  - 비고 : 내가 풀어볼 방법 또는 공부할 알고리즘, 문제 출처, 기타
-
+- 비고 : 내가 풀어볼 방법 또는 공부할 알고리즘, 문제 출처, 기타
+  
 - [백준](https://github.com/kmathl96/Algorithm#baekjoon)
 - [프로그래머스](https://github.com/kmathl96/Algorithm#programmers)
   - [Level 1](https://github.com/kmathl96/Algorithm#level-1) :egg:
@@ -185,6 +186,7 @@
 | [42883](https://programmers.co.kr/learn/courses/30/lessons/42883) | [큰 수 만들기](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/42883.py) | 탐욕법(Greedy)               |                                                      |
 | [42885](https://programmers.co.kr/learn/courses/30/lessons/42885) | [구명보트](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/42885.py) | 탐욕법(Greedy)               |                                                      |
 | [42888](https://programmers.co.kr/learn/courses/30/lessons/42888) | [오픈채팅방](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/42888.py) |                              | :memo: _2019 KAKAO BLIND RECRUITMENT_                |
+| [42890](https://programmers.co.kr/learn/courses/30/lessons/42890) | [후보키](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/42890.py) |                              | :memo: _2019 KAKAO BLIND RECRUITMENT_                |
 | [43165](https://programmers.co.kr/learn/courses/30/lessons/43165) | [타겟 넘버](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/43165.py) | 깊이/너비 우선 탐색(DFS/BFS) |                                                      |
 | [49993](https://programmers.co.kr/learn/courses/30/lessons/49993) | [스킬트리](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/49993.py) |                              | :memo: _Summer/Winter Coding(~2018)_                 |
 | [49994](https://programmers.co.kr/learn/courses/30/lessons/49994) | [방문 길이](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/49994.py) |                              | :memo: _Summer/Winter Coding(~2018)_                 |
