@@ -195,6 +195,7 @@
 | [60057](https://programmers.co.kr/learn/courses/30/lessons/60057) | [문자열 압축](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/60057.py) |                              | :memo: _2020 KAKAO BLIND RECRUITMENT_                |
 | [62048](https://programmers.co.kr/learn/courses/30/lessons/62048) | [멀쩡한 사각형](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/62048.py) | 유클리드 호제법              | :memo: _Summer/Winter Coding(2019)_                  |
 | [64065](https://programmers.co.kr/learn/courses/30/lessons/64065) | [튜플](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/64065.py) |                              | :memo: _2019 카카오 개발자 겨울 인턴십_              |
+| [68645](https://programmers.co.kr/learn/courses/30/lessons/68645) | [삼각 달팽이](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/68645.py) |                              | :memo: _월간 코드 챌린지 시즌1_                      |
 | [70129](https://programmers.co.kr/learn/courses/30/lessons/70129) | [이진 변환 반복하기](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/70129.py) |                              | :memo: _월간 코드 챌린지 시즌1_                      |
 | [77485](https://programmers.co.kr/learn/courses/30/lessons/77485) | [행렬 테두리 회전하기](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/77485.py) |                              | :memo: _2021 Dev-Matching: 웹 백엔드 개발자(상반기)_ |
 
