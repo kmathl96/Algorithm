@@ -13,6 +13,7 @@
 - [프로그래머스](https://github.com/kmathl96/Algorithm#programmers)
   - [Level 1](https://github.com/kmathl96/Algorithm#level-1) :egg:
   - [Level 2](https://github.com/kmathl96/Algorithm#level-2) :hatching_chick:
+  - [Level 3](https://github.com/kmathl96/Algorithm#level-3) :hatched_chick:
 
 
 
@@ -208,4 +209,12 @@
 | [68936](https://programmers.co.kr/learn/courses/30/lessons/68936) | [쿼드압축 후 개수 세기](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/68936.py) |                              | :memo: _월간 코드 챌린지 시즌1_                      |
 | [70129](https://programmers.co.kr/learn/courses/30/lessons/70129) | [이진 변환 반복하기](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/70129.py) |                              | :memo: _월간 코드 챌린지 시즌1_                      |
 | [77485](https://programmers.co.kr/learn/courses/30/lessons/77485) | [행렬 테두리 회전하기](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/77485.py) |                              | :memo: _2021 Dev-Matching: 웹 백엔드 개발자(상반기)_ |
+
+
+
+### Level 3
+
+| 문제                                                         | 문제 제목                                                    | 알고리즘 | 비고 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | -------- | ---- |
+| [42627](https://programmers.co.kr/learn/courses/30/lessons/42627) | [디스크 컨트롤러](https://github.com/kmathl96/Algorithm/blob/master/programmers/level3/42627.py) | 힙(Heap) |      |
 
