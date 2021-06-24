@@ -217,4 +217,5 @@
 | 문제                                                         | 문제 제목                                                    | 알고리즘 | 비고 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- | ---- |
 | [42627](https://programmers.co.kr/learn/courses/30/lessons/42627) | [디스크 컨트롤러](https://github.com/kmathl96/Algorithm/blob/master/programmers/level3/42627.py) | 힙(Heap) |      |
+| [42628](https://programmers.co.kr/learn/courses/30/lessons/42628) | [이중우선순위큐](https://github.com/kmathl96/Algorithm/blob/master/programmers/level3/42628.py) | 힙(Heap) |      |
 
