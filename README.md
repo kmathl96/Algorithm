@@ -165,6 +165,7 @@
 
 | 문제                                                         | 문제 제목                                                    | 알고리즘                     | 비고                                                 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | ---------------------------------------------------- |
+| [1844](https://programmers.co.kr/learn/courses/30/lessons/1844) | [게임 맵 최단거리](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/1844.py) | BFS                          | :memo: _찾아라 프로그래밍 마에스터_                  |
 | [12899](https://programmers.co.kr/learn/courses/30/lessons/12899) | [124 나라의 숫자](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/12899.py) |                              |                                                      |
 | [12905](https://programmers.co.kr/learn/courses/30/lessons/12905) | [가장 큰 정사각형 찾기](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/12905.py) | DP                           |                                                      |
 | [12909](https://programmers.co.kr/learn/courses/30/lessons/12909) | [올바른 괄호](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/12909.py) | 스택                         |                                                      |
