@@ -216,6 +216,7 @@
 | [68645](https://programmers.co.kr/learn/courses/30/lessons/68645) | [삼각 달팽이](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/68645.py) |                                                              | :memo: _월간 코드 챌린지 시즌1_                      |
 | [68936](https://programmers.co.kr/learn/courses/30/lessons/68936) | [쿼드압축 후 개수 세기](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/68936.py) |                                                              | :memo: _월간 코드 챌린지 시즌1_                      |
 | [70129](https://programmers.co.kr/learn/courses/30/lessons/70129) | [이진 변환 반복하기](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/70129.py) |                                                              | :memo: _월간 코드 챌린지 시즌1_                      |
+| [76502](https://programmers.co.kr/learn/courses/30/lessons/76502) | [괄호 회전하기](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/76502.py) | 스택                                                         | :memo: _월간 코드 챌린지 시즌2_                      |
 | [77485](https://programmers.co.kr/learn/courses/30/lessons/77485) | [행렬 테두리 회전하기](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/77485.py) |                                                              | :memo: _2021 Dev-Matching: 웹 백엔드 개발자(상반기)_ |
 
 
