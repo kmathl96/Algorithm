@@ -232,6 +232,7 @@
 | [76502](https://programmers.co.kr/learn/courses/30/lessons/76502) | [괄호 회전하기](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/76502.py) | 스택                                                         | :memo: _월간 코드 챌린지 시즌2_                      |
 | [77485](https://programmers.co.kr/learn/courses/30/lessons/77485) | [행렬 테두리 회전하기](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/77485.py) |                                                              | :memo: _2021 Dev-Matching: 웹 백엔드 개발자(상반기)_ |
 | [77885](https://programmers.co.kr/learn/courses/30/lessons/77885) | [2개 이하로 다른 비트](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/77885.py) |                                                              | :memo: _월간 코드 챌린지 시즌2_                      |
+| [81302](https://programmers.co.kr/learn/courses/30/lessons/81302) | [거리두기 확인하기](https://github.com/kmathl96/Algorithm/blob/master/programmers/level2/81302.py) | BFS                                                          | :memo: _2021 카카오 채용연계형 인턴십_               |
 
 
 
