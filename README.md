@@ -36,6 +36,7 @@
 | [1912](https://www.acmicpc.net/problem/1912)   | [연속합](https://github.com/kmathl96/Algorithm/blob/master/baekjoon/1912.py) | DP                                                           |                                                              |
 | [1920](https://www.acmicpc.net/problem/1920)   | [수 찾기](https://github.com/kmathl96/Algorithm/blob/master/baekjoon/1920.py) | 이분 탐색                                                    |                                                              |
 | [1934](https://www.acmicpc.net/problem/1934)   | [최소공배수](https://github.com/kmathl96/Algorithm/blob/master/baekjoon/1934.py) | 유클리드 호제법                                              |                                                              |
+| [1966](https://www.acmicpc.net/problem/1966)   | [프린터 큐](https://github.com/kmathl96/Algorithm/blob/master/baekjoon/1966.py) | 큐, 구현, 자료 구조, 시뮬레이션                              |                                                              |
 | [1978](https://www.acmicpc.net/problem/1978)   | [소수 찾기](https://github.com/kmathl96/Algorithm/blob/master/baekjoon/1978.py) | 에라토스테네스의 체                                          |                                                              |
 | [2110](https://www.acmicpc.net/problem/2110)   | [공유기 설치](https://github.com/kmathl96/Algorithm/blob/master/baekjoon/2110.py) | 이분 탐색                                                    |                                                              |
 | [2156](https://www.acmicpc.net/problem/2156)   | [포도주 시식](https://github.com/kmathl96/Algorithm/blob/master/baekjoon/2156.py) | DP                                                           |                                                              |
@@ -239,16 +240,16 @@
 
 ### Level 3
 
-| 문제                                                         | 문제 제목                                                    | 알고리즘                     | 비고 |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | ---- |
-| [42579](https://programmers.co.kr/learn/courses/30/lessons/42579) | [베스트앨범](https://github.com/kmathl96/Algorithm/blob/master/programmers/level3/42579.py) | 해시                         |      |
-| [42627](https://programmers.co.kr/learn/courses/30/lessons/42627) | [디스크 컨트롤러](https://github.com/kmathl96/Algorithm/blob/master/programmers/level3/42627.py) | 힙(Heap)                     |      |
-| [42628](https://programmers.co.kr/learn/courses/30/lessons/42628) | [이중우선순위큐](https://github.com/kmathl96/Algorithm/blob/master/programmers/level3/42628.py) | 힙(Heap)                     |      |
-| [43162](https://programmers.co.kr/learn/courses/30/lessons/43162) | [네트워크](https://github.com/kmathl96/Algorithm/blob/master/programmers/level3/43162.py) | 깊이/너비 우선 탐색(DFS/BFS) |      |
-| [43163](https://programmers.co.kr/learn/courses/30/lessons/43163) | [단어 변환](https://github.com/kmathl96/Algorithm/blob/master/programmers/level3/43163.py) | 깊이/너비 우선 탐색(DFS/BFS) |      |
-| [43164](https://programmers.co.kr/learn/courses/30/lessons/43164) | [여행경로](https://github.com/kmathl96/Algorithm/blob/master/programmers/level3/43164.py) | 깊이/너비 우선 탐색(DFS/BFS) |      |
-| [43238](https://programmers.co.kr/learn/courses/30/lessons/43238) | [입국심사](https://github.com/kmathl96/Algorithm/blob/master/programmers/level3/43238.py) | 이분탐색                     |      |
-| [67258](https://programmers.co.kr/learn/courses/30/lessons/67258) | [보석 쇼핑](https://github.com/kmathl96/Algorithm/blob/master/programmers/level3/67258.py) | 해시, 투 포인터              |      |
+| 문제                                                         | 문제 제목                                                    | 알고리즘                     | 비고                        |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | --------------------------- |
+| [42579](https://programmers.co.kr/learn/courses/30/lessons/42579) | [베스트앨범](https://github.com/kmathl96/Algorithm/blob/master/programmers/level3/42579.py) | 해시                         |                             |
+| [42627](https://programmers.co.kr/learn/courses/30/lessons/42627) | [디스크 컨트롤러](https://github.com/kmathl96/Algorithm/blob/master/programmers/level3/42627.py) | 힙(Heap)                     |                             |
+| [42628](https://programmers.co.kr/learn/courses/30/lessons/42628) | [이중우선순위큐](https://github.com/kmathl96/Algorithm/blob/master/programmers/level3/42628.py) | 힙(Heap)                     |                             |
+| [43162](https://programmers.co.kr/learn/courses/30/lessons/43162) | [네트워크](https://github.com/kmathl96/Algorithm/blob/master/programmers/level3/43162.py) | 깊이/너비 우선 탐색(DFS/BFS) |                             |
+| [43163](https://programmers.co.kr/learn/courses/30/lessons/43163) | [단어 변환](https://github.com/kmathl96/Algorithm/blob/master/programmers/level3/43163.py) | 깊이/너비 우선 탐색(DFS/BFS) |                             |
+| [43164](https://programmers.co.kr/learn/courses/30/lessons/43164) | [여행경로](https://github.com/kmathl96/Algorithm/blob/master/programmers/level3/43164.py) | 깊이/너비 우선 탐색(DFS/BFS) |                             |
+| [43238](https://programmers.co.kr/learn/courses/30/lessons/43238) | [입국심사](https://github.com/kmathl96/Algorithm/blob/master/programmers/level3/43238.py) | 이분탐색                     |                             |
+| [67258](https://programmers.co.kr/learn/courses/30/lessons/67258) | [보석 쇼핑](https://github.com/kmathl96/Algorithm/blob/master/programmers/level3/67258.py) | 해시, 투 포인터              | :memo: _2020 카카오 인턴십_ |
 
 
 
