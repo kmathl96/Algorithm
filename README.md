@@ -248,6 +248,7 @@
 | [43163](https://programmers.co.kr/learn/courses/30/lessons/43163) | [단어 변환](https://github.com/kmathl96/Algorithm/blob/master/programmers/level3/43163.py) | 깊이/너비 우선 탐색(DFS/BFS) |      |
 | [43164](https://programmers.co.kr/learn/courses/30/lessons/43164) | [여행경로](https://github.com/kmathl96/Algorithm/blob/master/programmers/level3/43164.py) | 깊이/너비 우선 탐색(DFS/BFS) |      |
 | [43238](https://programmers.co.kr/learn/courses/30/lessons/43238) | [입국심사](https://github.com/kmathl96/Algorithm/blob/master/programmers/level3/43238.py) | 이분탐색                     |      |
+| [67258](https://programmers.co.kr/learn/courses/30/lessons/67258) | [보석 쇼핑](https://github.com/kmathl96/Algorithm/blob/master/programmers/level3/67258.py) | 해시, 투 포인터              |      |
 
 
 
