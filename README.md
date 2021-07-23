@@ -126,6 +126,7 @@
 | [20528](https://www.acmicpc.net/problem/20528) | [끝말잇기](https://github.com/kmathl96/Algorithm/blob/master/baekjoon/201231_GoodByeBOJ2020/a.py) | 문자열                                                       | :memo: _2020-12-31 Good Bye, BOJ 2020!_<br />애드 혹         |
 | [20529](https://www.acmicpc.net/problem/20529) | [가장 가까운 세 사람의 심리적 거리](https://github.com/kmathl96/Algorithm/blob/master/baekjoon/20529.py) | 브루트 포스, 비둘기집의 원리                                 | :memo: _2020-12-31 Good Bye, BOJ 2020!_                      |
 | [21608](https://www.acmicpc.net/problem/21608) | [상어 초등학교](https://github.com/kmathl96/Algorithm/blob/master/baekjoon/21608.py) | 구현                                                         |                                                              |
+| [21610](https://www.acmicpc.net/problem/21610) | [마법사 상어와 비바라기](https://github.com/kmathl96/Algorithm/blob/master/baekjoon/21610.py) | 구현, 시뮬레이션                                             |                                                              |
 
 
 
