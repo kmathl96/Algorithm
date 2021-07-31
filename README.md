@@ -21,6 +21,7 @@
 
 | 문제                                           | 문제 제목                                                    | 알고리즘                                                     | 비고                                                         |
 | :--------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | :----------------------------------------------------------- |
+| [1052](https://www.acmicpc.net/problem/1052)   | [물병](https://github.com/kmathl96/Algorithm/blob/master/baekjoon/1052.py) | 구현, 그리디, 시뮬레이션, 비트마스킹                         |                                                              |
 | [1107](https://www.acmicpc.net/problem/1107)   | [리모컨](https://github.com/kmathl96/Algorithm/blob/master/baekjoon/1107.py) | 브루트포스                                                   |                                                              |
 | [1182](https://www.acmicpc.net/problem/1182)   | [부분수열의 합](https://github.com/kmathl96/Algorithm/blob/master/baekjoon/1182.py) | 브루트 포스                                                  |                                                              |
 | [1197](https://www.acmicpc.net/problem/1197)   | [최소 스패닝 트리](https://github.com/kmathl96/Algorithm/blob/master/baekjoon/1197.py) | MST, 크루스칼                                                | 프림                                                         |
