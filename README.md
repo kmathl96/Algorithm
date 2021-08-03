@@ -195,6 +195,7 @@
 | [77484](https://programmers.co.kr/learn/courses/30/lessons/77484) | [로또의 최고 순위와 최저 순위](https://github.com/kmathl96/Algorithm/blob/master/programmers/level1/77484.py) |                 | :memo: _2021 Dev-Matching: 웹 백엔드 개발자(상반기)_ |
 | [77884](https://programmers.co.kr/learn/courses/30/lessons/77884) | [약수의 개수와 덧셈](https://github.com/kmathl96/Algorithm/blob/master/programmers/level1/77884.py) |                 | :memo: _월간 코드 챌린지 시즌2_                      |
 | [81301](https://programmers.co.kr/learn/courses/30/lessons/81301) | [숫자 문자열과 영단어](https://github.com/kmathl96/Algorithm/blob/master/programmers/level1/81301.py) |                 | :memo: _2021 카카오 채용연계형 인턴십_               |
+| [82612](https://programmers.co.kr/learn/courses/30/lessons/82612) | [부족한 금액 계산하기](https://github.com/kmathl96/Algorithm/blob/master/programmers/level1/82612.py) |                 | :memo: _위클리 챌린지  (1주차)_                      |
 
 
 
