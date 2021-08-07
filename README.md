@@ -300,6 +300,7 @@
 | [59034](https://programmers.co.kr/learn/courses/30/lessons/59034) | [모든 레코드 조회하기](https://github.com/kmathl96/Algorithm/blob/master/programmers/sql/59034.sql) | SELECT        |      |
 | [59035](https://programmers.co.kr/learn/courses/30/lessons/59035) | [역순 정렬하기](https://github.com/kmathl96/Algorithm/blob/master/programmers/sql/59035.sql) | SELECT        |      |
 | [59036](https://programmers.co.kr/learn/courses/30/lessons/59036) | [아픈 동물 찾기](https://github.com/kmathl96/Algorithm/blob/master/programmers/sql/59036.sql) | SELECT        |      |
+| [59037](https://programmers.co.kr/learn/courses/30/lessons/59037) | [어린 동물 찾기](https://github.com/kmathl96/Algorithm/blob/master/programmers/sql/59037.sql) | SELECT        |      |
 | [59038](https://programmers.co.kr/learn/courses/30/lessons/59038) | [최솟값 구하기](https://github.com/kmathl96/Algorithm/blob/master/programmers/sql/59038.sql) | SUM, MAX, MIN |      |
 | [59040](https://programmers.co.kr/learn/courses/30/lessons/59040) | [고양이와 개는 몇 마리 있을까](https://github.com/kmathl96/Algorithm/blob/master/programmers/sql/59040.sql) | GROUP BY      |      |
 | [59415](https://programmers.co.kr/learn/courses/30/lessons/59415) | [최댓값 구하기](https://github.com/kmathl96/Algorithm/blob/master/programmers/sql/59415.sql) | SUM, MAX, MIN |      |
