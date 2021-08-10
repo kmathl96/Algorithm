@@ -9,12 +9,12 @@
   - 알고리즘 : 해당 문제의 알고리즘 분류 또는 내가 푼 방법
 - 비고 : 내가 풀어볼 방법 또는 공부할 알고리즘, 문제 출처, 기타
   
-- [백준](https://github.com/kmathl96/Algorithm#baekjoon)
-- [프로그래머스](https://github.com/kmathl96/Algorithm#programmers)
-  - [Level 1](https://github.com/kmathl96/Algorithm#level-1) :egg:
-  - [Level 2](https://github.com/kmathl96/Algorithm#level-2) :hatching_chick:
-  - [Level 3](https://github.com/kmathl96/Algorithm#level-3) :hatched_chick:
-  - [Level 4](https://github.com/kmathl96/Algorithm#level-4) :chicken:
+- [백준](#baekjoon)
+- [프로그래머스](#programmers)
+  - [Level 1](#level-1) :egg:
+  - [Level 2](#level-2) :hatching_chick:
+  - [Level 3](#level-3) :hatched_chick:
+  - [Level 4](#level-4) :chicken:
   - [SQL](#sql)​ (알고리즘은 아니지만:dolphin:)
 
 
