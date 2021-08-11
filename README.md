@@ -309,4 +309,5 @@
 | [59046](https://programmers.co.kr/learn/courses/30/lessons/59046) | [루시와 엘라 찾기](programmers/sql/59046.sql)               | String, Date  |      |
 | [59047](https://programmers.co.kr/learn/courses/30/lessons/59047) | [이름에 el이 들어가는 동물 찾기](programmers/sql/59047.sql) | String, Date  |      |
 | [59403](https://programmers.co.kr/learn/courses/30/lessons/59403) | [동물의 아이디와 이름](programmers/sql/59403.sql)           | SELECT        |      |
+| [59409](https://programmers.co.kr/learn/courses/30/lessons/59409) | [중성화 여부 파악하기](programmers/sql/59409.sql)           | String, Date  |      |
 | [59415](https://programmers.co.kr/learn/courses/30/lessons/59415) | [최댓값 구하기](programmers/sql/59415.sql)                  | SUM, MAX, MIN |      |
