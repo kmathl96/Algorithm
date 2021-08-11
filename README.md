@@ -306,5 +306,6 @@
 | [59039](https://programmers.co.kr/learn/courses/30/lessons/59039) | [이름이 없는 동물의 아이디](programmers/sql/59039.sql)    | IS NULL       |      |
 | [59040](https://programmers.co.kr/learn/courses/30/lessons/59040) | [고양이와 개는 몇 마리 있을까](programmers/sql/59040.sql) | GROUP BY      |      |
 | [59042](https://programmers.co.kr/learn/courses/30/lessons/59042) | [없어진 기록 찾기](programmers/sql/59042.sql)             | JOIN          |      |
+| [59046](https://programmers.co.kr/learn/courses/30/lessons/59046) | [루시와 엘라 찾기](programmers/sql/59046.sql)             | String, Date  |      |
 | [59403](https://programmers.co.kr/learn/courses/30/lessons/59403) | [동물의 아이디와 이름](programmers/sql/59403.sql)         | SELECT        |      |
 | [59415](https://programmers.co.kr/learn/courses/30/lessons/59415) | [최댓값 구하기](programmers/sql/59415.sql)                | SUM, MAX, MIN |      |
