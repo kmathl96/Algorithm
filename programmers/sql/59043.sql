@@ -1,0 +1,8 @@
+-- 있었는데요 없었습니다
+-- JOIN
+
+SELECT O.ANIMAL_ID, O.NAME
+FROM ANIMAL_INS I JOIN ANIMAL_OUTS O
+ON I.ANIMAL_ID = O.ANIMAL_ID
+WHERE O.DATETIME < I.DATETIME -- 입양일이 보호 시작일보다 빠른 경우
+ORDER BY I.DATETIME; -- 보호 시작일이 빠른 순으로 조회
