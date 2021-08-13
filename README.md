@@ -314,6 +314,7 @@
 | [59403](https://programmers.co.kr/learn/courses/30/lessons/59403) | [동물의 아이디와 이름](programmers/sql/59403.sql)           | SELECT        |      |
 | [59407](https://programmers.co.kr/learn/courses/30/lessons/59407) | [이름이 있는 동물의 아이디](programmers/sql/59407.sql)      | IS NULL       |      |
 | [59409](https://programmers.co.kr/learn/courses/30/lessons/59409) | [중성화 여부 파악하기](programmers/sql/59409.sql)           | String, Date  |      |
+| [59410](https://programmers.co.kr/learn/courses/30/lessons/59410) | [NULL 처리하기](programmers/sql/59410.sql)                  | IS NULL       |      |
 | [59411](https://programmers.co.kr/learn/courses/30/lessons/59411) | [오랜 기간 보호한 동물(2)](programmers/sql/59411.sql)       | String, Date  |      |
 | [59412](https://programmers.co.kr/learn/courses/30/lessons/59412) | [입양 시각 구하기(1)](programmers/sql/59412.sql)            | GROUP BY      |      |
 | [59414](https://programmers.co.kr/learn/courses/30/lessons/59414) | [DATETIME에서 DATE로 형 변환](programmers/sql/59414.sql)    | String, Date  |      |
