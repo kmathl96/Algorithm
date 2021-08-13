@@ -309,6 +309,7 @@
 | [59042](https://programmers.co.kr/learn/courses/30/lessons/59042) | [없어진 기록 찾기](programmers/sql/59042.sql)               | JOIN                           |                                                      |
 | [59043](https://programmers.co.kr/learn/courses/30/lessons/59043) | [있었는데요 없었습니다](programmers/sql/59043.sql)          | JOIN                           |                                                      |
 | [59044](https://programmers.co.kr/learn/courses/30/lessons/59044) | [오랜 기간 보호한 동물(1)](programmers/sql/59044.sql)       | JOIN                           |                                                      |
+| [59045](https://programmers.co.kr/learn/courses/30/lessons/59045) | [보호소에서 중성화한 동물](programmers/sql/59045.sql)       | JOIN, LIKE                     |                                                      |
 | [59046](https://programmers.co.kr/learn/courses/30/lessons/59046) | [루시와 엘라 찾기](programmers/sql/59046.sql)               | String, Date                   |                                                      |
 | [59047](https://programmers.co.kr/learn/courses/30/lessons/59047) | [이름에 el이 들어가는 동물 찾기](programmers/sql/59047.sql) | String, Date                   |                                                      |
 | [59403](https://programmers.co.kr/learn/courses/30/lessons/59403) | [동물의 아이디와 이름](programmers/sql/59403.sql)           | SELECT                         |                                                      |

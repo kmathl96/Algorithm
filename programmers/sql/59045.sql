@@ -1,0 +1,9 @@
+-- 보호소에서 중성화한 동물
+-- JOIN
+
+SELECT O.ANIMAL_ID, O.ANIMAL_TYPE, O.NAME
+FROM ANIMAL_INS I JOIN ANIMAL_OUTS O
+ON I.ANIMAL_ID = O.ANIMAL_ID
+WHERE I.SEX_UPON_INTAKE LIKE '%Intact%' AND -- 들어올 때는 Intact
+	(O.SEX_UPON_OUTCOME LIKE '%Spayed%' OR O.SEX_UPON_OUTCOME LIKE '%Neutered%') -- 입양 보낼 땐 Spayed나 Neutered
+ORDER BY O.ANIMAL_ID; -- 아이디 순으로 정렬
