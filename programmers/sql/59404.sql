@@ -1,0 +1,6 @@
+-- 여러 기준으로 정렬하기
+-- SELECT
+
+SELECT ANIMAL_ID, NAME, DATETIME
+FROM ANIMAL_INS
+ORDER BY NAME, DATETIME DESC; -- 이름은 오름차순, 보호시작일은 최신순으로 정렬
