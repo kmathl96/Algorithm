@@ -296,30 +296,31 @@
 
 ### SQL
 
-| 문제                                                         | 문제 제목                                                   | 유형                           | 비고 |
-| ------------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------ | ---- |
-| [59034](https://programmers.co.kr/learn/courses/30/lessons/59034) | [모든 레코드 조회하기](programmers/sql/59034.sql)           | SELECT                         |      |
-| [59035](https://programmers.co.kr/learn/courses/30/lessons/59035) | [역순 정렬하기](programmers/sql/59035.sql)                  | SELECT                         |      |
-| [59036](https://programmers.co.kr/learn/courses/30/lessons/59036) | [아픈 동물 찾기](programmers/sql/59036.sql)                 | SELECT                         |      |
-| [59037](https://programmers.co.kr/learn/courses/30/lessons/59037) | [어린 동물 찾기](programmers/sql/59037.sql)                 | SELECT                         |      |
-| [59038](https://programmers.co.kr/learn/courses/30/lessons/59038) | [최솟값 구하기](programmers/sql/59038.sql)                  | SUM, MAX, MIN                  |      |
-| [59039](https://programmers.co.kr/learn/courses/30/lessons/59039) | [이름이 없는 동물의 아이디](programmers/sql/59039.sql)      | IS NULL                        |      |
-| [59040](https://programmers.co.kr/learn/courses/30/lessons/59040) | [고양이와 개는 몇 마리 있을까](programmers/sql/59040.sql)   | GROUP BY                       |      |
-| [59041](https://programmers.co.kr/learn/courses/30/lessons/59041) | [동명 동물 수 찾기](programmers/sql/59041.sql)              | GROUP BY                       |      |
-| [59042](https://programmers.co.kr/learn/courses/30/lessons/59042) | [없어진 기록 찾기](programmers/sql/59042.sql)               | JOIN                           |      |
-| [59043](https://programmers.co.kr/learn/courses/30/lessons/59043) | [있었는데요 없었습니다](programmers/sql/59043.sql)          | JOIN                           |      |
-| [59044](https://programmers.co.kr/learn/courses/30/lessons/59044) | [오랜 기간 보호한 동물(1)](programmers/sql/59044.sql)       | JOIN                           |      |
-| [59046](https://programmers.co.kr/learn/courses/30/lessons/59046) | [루시와 엘라 찾기](programmers/sql/59046.sql)               | String, Date                   |      |
-| [59047](https://programmers.co.kr/learn/courses/30/lessons/59047) | [이름에 el이 들어가는 동물 찾기](programmers/sql/59047.sql) | String, Date                   |      |
-| [59403](https://programmers.co.kr/learn/courses/30/lessons/59403) | [동물의 아이디와 이름](programmers/sql/59403.sql)           | SELECT                         |      |
-| [59404](https://programmers.co.kr/learn/courses/30/lessons/59404) | [여러 기준으로 정렬하기](programmers/sql/59404.sql)         | SELECT, ORDER BY               |      |
-| [59405](https://programmers.co.kr/learn/courses/30/lessons/59405) | [상위 n개 레코드](programmers/sql/59405.sql)                | LIMIT, SELECT                  |      |
-| [59406](https://programmers.co.kr/learn/courses/30/lessons/59406) | [동물 수 구하기](programmers/sql/59406.sql)                 | COUNT, SUM, MAX, MIN           |      |
-| [59407](https://programmers.co.kr/learn/courses/30/lessons/59407) | [이름이 있는 동물의 아이디](programmers/sql/59407.sql)      | IS NULL                        |      |
-| [59408](https://programmers.co.kr/learn/courses/30/lessons/59408) | [중복 제거하기](programmers/sql/59408.sql)                  | COUNT, DISTINCT, SUM, MAX, MIN |      |
-| [59409](https://programmers.co.kr/learn/courses/30/lessons/59409) | [중성화 여부 파악하기](programmers/sql/59409.sql)           | String, Date                   |      |
-| [59410](https://programmers.co.kr/learn/courses/30/lessons/59410) | [NULL 처리하기](programmers/sql/59410.sql)                  | IS NULL                        |      |
-| [59411](https://programmers.co.kr/learn/courses/30/lessons/59411) | [오랜 기간 보호한 동물(2)](programmers/sql/59411.sql)       | String, Date                   |      |
-| [59412](https://programmers.co.kr/learn/courses/30/lessons/59412) | [입양 시각 구하기(1)](programmers/sql/59412.sql)            | GROUP BY                       |      |
-| [59414](https://programmers.co.kr/learn/courses/30/lessons/59414) | [DATETIME에서 DATE로 형 변환](programmers/sql/59414.sql)    | String, Date                   |      |
-| [59415](https://programmers.co.kr/learn/courses/30/lessons/59415) | [최댓값 구하기](programmers/sql/59415.sql)                  | SUM, MAX, MIN                  |      |
+| 문제                                                         | 문제 제목                                                   | 유형                           | 비고                                                 |
+| ------------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------ | ---------------------------------------------------- |
+| [59034](https://programmers.co.kr/learn/courses/30/lessons/59034) | [모든 레코드 조회하기](programmers/sql/59034.sql)           | SELECT                         |                                                      |
+| [59035](https://programmers.co.kr/learn/courses/30/lessons/59035) | [역순 정렬하기](programmers/sql/59035.sql)                  | SELECT                         |                                                      |
+| [59036](https://programmers.co.kr/learn/courses/30/lessons/59036) | [아픈 동물 찾기](programmers/sql/59036.sql)                 | SELECT                         |                                                      |
+| [59037](https://programmers.co.kr/learn/courses/30/lessons/59037) | [어린 동물 찾기](programmers/sql/59037.sql)                 | SELECT                         |                                                      |
+| [59038](https://programmers.co.kr/learn/courses/30/lessons/59038) | [최솟값 구하기](programmers/sql/59038.sql)                  | SUM, MAX, MIN                  |                                                      |
+| [59039](https://programmers.co.kr/learn/courses/30/lessons/59039) | [이름이 없는 동물의 아이디](programmers/sql/59039.sql)      | IS NULL                        |                                                      |
+| [59040](https://programmers.co.kr/learn/courses/30/lessons/59040) | [고양이와 개는 몇 마리 있을까](programmers/sql/59040.sql)   | GROUP BY                       |                                                      |
+| [59041](https://programmers.co.kr/learn/courses/30/lessons/59041) | [동명 동물 수 찾기](programmers/sql/59041.sql)              | GROUP BY                       |                                                      |
+| [59042](https://programmers.co.kr/learn/courses/30/lessons/59042) | [없어진 기록 찾기](programmers/sql/59042.sql)               | JOIN                           |                                                      |
+| [59043](https://programmers.co.kr/learn/courses/30/lessons/59043) | [있었는데요 없었습니다](programmers/sql/59043.sql)          | JOIN                           |                                                      |
+| [59044](https://programmers.co.kr/learn/courses/30/lessons/59044) | [오랜 기간 보호한 동물(1)](programmers/sql/59044.sql)       | JOIN                           |                                                      |
+| [59046](https://programmers.co.kr/learn/courses/30/lessons/59046) | [루시와 엘라 찾기](programmers/sql/59046.sql)               | String, Date                   |                                                      |
+| [59047](https://programmers.co.kr/learn/courses/30/lessons/59047) | [이름에 el이 들어가는 동물 찾기](programmers/sql/59047.sql) | String, Date                   |                                                      |
+| [59403](https://programmers.co.kr/learn/courses/30/lessons/59403) | [동물의 아이디와 이름](programmers/sql/59403.sql)           | SELECT                         |                                                      |
+| [59404](https://programmers.co.kr/learn/courses/30/lessons/59404) | [여러 기준으로 정렬하기](programmers/sql/59404.sql)         | SELECT, ORDER BY               |                                                      |
+| [59405](https://programmers.co.kr/learn/courses/30/lessons/59405) | [상위 n개 레코드](programmers/sql/59405.sql)                | LIMIT, SELECT                  |                                                      |
+| [59406](https://programmers.co.kr/learn/courses/30/lessons/59406) | [동물 수 구하기](programmers/sql/59406.sql)                 | COUNT, SUM, MAX, MIN           |                                                      |
+| [59407](https://programmers.co.kr/learn/courses/30/lessons/59407) | [이름이 있는 동물의 아이디](programmers/sql/59407.sql)      | IS NULL                        |                                                      |
+| [59408](https://programmers.co.kr/learn/courses/30/lessons/59408) | [중복 제거하기](programmers/sql/59408.sql)                  | COUNT, DISTINCT, SUM, MAX, MIN |                                                      |
+| [59409](https://programmers.co.kr/learn/courses/30/lessons/59409) | [중성화 여부 파악하기](programmers/sql/59409.sql)           | String, Date                   |                                                      |
+| [59410](https://programmers.co.kr/learn/courses/30/lessons/59410) | [NULL 처리하기](programmers/sql/59410.sql)                  | IS NULL                        |                                                      |
+| [59411](https://programmers.co.kr/learn/courses/30/lessons/59411) | [오랜 기간 보호한 동물(2)](programmers/sql/59411.sql)       | String, Date                   |                                                      |
+| [59412](https://programmers.co.kr/learn/courses/30/lessons/59412) | [입양 시각 구하기(1)](programmers/sql/59412.sql)            | GROUP BY                       |                                                      |
+| [59414](https://programmers.co.kr/learn/courses/30/lessons/59414) | [DATETIME에서 DATE로 형 변환](programmers/sql/59414.sql)    | String, Date                   |                                                      |
+| [59415](https://programmers.co.kr/learn/courses/30/lessons/59415) | [최댓값 구하기](programmers/sql/59415.sql)                  | SUM, MAX, MIN                  |                                                      |
+| [77487](https://programmers.co.kr/learn/courses/30/lessons/77487) | [헤비 유저가 소유한 장소](programmers/sql/77487.sql)        | 서브쿼리                       | :memo: _2021 Dev-Matching: 웹 백엔드 개발자(상반기)_ |
