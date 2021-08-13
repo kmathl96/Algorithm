@@ -312,6 +312,7 @@
 | [59046](https://programmers.co.kr/learn/courses/30/lessons/59046) | [루시와 엘라 찾기](programmers/sql/59046.sql)               | String, Date  |      |
 | [59047](https://programmers.co.kr/learn/courses/30/lessons/59047) | [이름에 el이 들어가는 동물 찾기](programmers/sql/59047.sql) | String, Date  |      |
 | [59403](https://programmers.co.kr/learn/courses/30/lessons/59403) | [동물의 아이디와 이름](programmers/sql/59403.sql)           | SELECT        |      |
+| [59406](https://programmers.co.kr/learn/courses/30/lessons/59406) | [동물 수 구하기](programmers/sql/59406.sql)                 | SUM, MAX, MIN |      |
 | [59407](https://programmers.co.kr/learn/courses/30/lessons/59407) | [이름이 있는 동물의 아이디](programmers/sql/59407.sql)      | IS NULL       |      |
 | [59409](https://programmers.co.kr/learn/courses/30/lessons/59409) | [중성화 여부 파악하기](programmers/sql/59409.sql)           | String, Date  |      |
 | [59410](https://programmers.co.kr/learn/courses/30/lessons/59410) | [NULL 처리하기](programmers/sql/59410.sql)                  | IS NULL       |      |
