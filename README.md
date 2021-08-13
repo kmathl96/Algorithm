@@ -325,4 +325,5 @@
 | [59413](https://programmers.co.kr/learn/courses/30/lessons/59413) | [입양 시각 구하기(2)](programmers/sql/59413.sql)            | GROUP BY, WITH RECURSIVE       |                                                      |
 | [59414](https://programmers.co.kr/learn/courses/30/lessons/59414) | [DATETIME에서 DATE로 형 변환](programmers/sql/59414.sql)    | String, Date                   |                                                      |
 | [59415](https://programmers.co.kr/learn/courses/30/lessons/59415) | [최댓값 구하기](programmers/sql/59415.sql)                  | SUM, MAX, MIN                  |                                                      |
+| [62284](https://programmers.co.kr/learn/courses/30/lessons/62284) | [우유와 요거트가 담긴 장바구니](programmers/sql/62284.sql)  | GROUP BY, DISTINCT             | :memo: _Summer/Winter Coding(2019)_                  |
 | [77487](https://programmers.co.kr/learn/courses/30/lessons/77487) | [헤비 유저가 소유한 장소](programmers/sql/77487.sql)        | 서브쿼리                       | :memo: _2021 Dev-Matching: 웹 백엔드 개발자(상반기)_ |
