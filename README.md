@@ -305,6 +305,7 @@
 | [59038](https://programmers.co.kr/learn/courses/30/lessons/59038) | [최솟값 구하기](programmers/sql/59038.sql)                  | SUM, MAX, MIN |      |
 | [59039](https://programmers.co.kr/learn/courses/30/lessons/59039) | [이름이 없는 동물의 아이디](programmers/sql/59039.sql)      | IS NULL       |      |
 | [59040](https://programmers.co.kr/learn/courses/30/lessons/59040) | [고양이와 개는 몇 마리 있을까](programmers/sql/59040.sql)   | GROUP BY      |      |
+| [59041](https://programmers.co.kr/learn/courses/30/lessons/59041) | [동명 동물 수 찾기](programmers/sql/59041.sql)              | GROUP BY      |      |
 | [59042](https://programmers.co.kr/learn/courses/30/lessons/59042) | [없어진 기록 찾기](programmers/sql/59042.sql)               | JOIN          |      |
 | [59043](https://programmers.co.kr/learn/courses/30/lessons/59043) | [있었는데요 없었습니다](programmers/sql/59043.sql)          | JOIN          |      |
 | [59044](https://programmers.co.kr/learn/courses/30/lessons/59044) | [오랜 기간 보호한 동물(1)](programmers/sql/59044.sql)       | JOIN          |      |
