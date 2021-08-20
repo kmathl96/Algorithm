@@ -10,5 +10,5 @@ for val in coins:
     # 동전을 더해서 i원 만들기
     for i in range(val,k+1): # 해당 동전의 가치부터 시작
         # 해당 동전의 가치만큼 적은 금액(i-val)을 만들 수 있는 경우의 수를 더함
-        if i-val >= 0: dp[i] += dp[i-val]
+        dp[i] += dp[i-val]
 print(dp[k])
