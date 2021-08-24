@@ -160,37 +160,37 @@
 
 | 문제                                                         | 문제 제목                                                    | 알고리즘        | 비고                                                 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------- | ---------------------------------------------------- |
-| [1845](https://programmers.co.kr/learn/courses/30/lessons/1845) | [폰켓몬](programmers/level1/1845.py) |                 | :memo: _찾아라 프로그래밍 마에스터_                  |
+| [1845](https://programmers.co.kr/learn/courses/30/lessons/1845) | [폰켓몬](programmers/level1/1845.py)                         |                 | :memo: _찾아라 프로그래밍 마에스터_                  |
 | [12901](https://programmers.co.kr/learn/courses/30/lessons/12901) | 2016년 ([python](programmers/level1/12901.py)/[java](programmers/src/level1/Prob_12901.java)) |                 |                                                      |
 | [12903](https://programmers.co.kr/learn/courses/30/lessons/12903) | 가운데 글자 가져오기 ([python](programmers/level1/12903.py)/[java](programmers/src/level1/Prob_12903.java)) |                 |                                                      |
 | [12906](https://programmers.co.kr/learn/courses/30/lessons/12906) | 같은 숫자는 싫어 ([python](programmers/level1/12906.py)/[java](programmers/src/level1/Prob_12906.java)) |                 |                                                      |
-| [12910](https://programmers.co.kr/learn/courses/30/lessons/12910) | [나누어 떨어지는 숫자 배열](programmers/level1/12910.py) |                 |                                                      |
-| [12912](https://programmers.co.kr/learn/courses/30/lessons/12912) | [두 정수 사이의 합](programmers/level1/12912.py) |                 |                                                      |
-| [12915](https://programmers.co.kr/learn/courses/30/lessons/12915) | [문자열 내 마음대로 정렬하기](programmers/level1/12915.py) |                 |                                                      |
-| [12916](https://programmers.co.kr/learn/courses/30/lessons/12916) | [문자열 내 p와 y의 개수](programmers/level1/12916.py) |                 |                                                      |
-| [12917](https://programmers.co.kr/learn/courses/30/lessons/12917) | [문자열 내림차순으로 배치하기](programmers/level1/12917.py) |                 |                                                      |
-| [12918](https://programmers.co.kr/learn/courses/30/lessons/12918) | [문자열 다루기 기본](programmers/level1/12918.py) |                 |                                                      |
-| [12919](https://programmers.co.kr/learn/courses/30/lessons/12919) | [서울에서 김서방 찾기](programmers/level1/12919.py) |                 |                                                      |
-| [12921](https://programmers.co.kr/learn/courses/30/lessons/12921) | [소수 찾기](programmers/level1/12921.py) |                 |                                                      |
-| [12922](https://programmers.co.kr/learn/courses/30/lessons/12922) | [수박수박수박수박수박수?](programmers/level1/12922.py) |                 |                                                      |
-| [12925](https://programmers.co.kr/learn/courses/30/lessons/12925) | [문자열을 정수로 바꾸기](programmers/level1/12925.py) |                 |                                                      |
-| [12926](https://programmers.co.kr/learn/courses/30/lessons/12926) | [시저 암호](programmers/level1/12926.py) |                 |                                                      |
-| [12928](https://programmers.co.kr/learn/courses/30/lessons/12928) | [약수의 합](programmers/level1/12928.py) |                 |                                                      |
-| [12930](https://programmers.co.kr/learn/courses/30/lessons/12930) | [이상한 문자 만들기](programmers/level1/12930.py) |                 |                                                      |
-| [12931](https://programmers.co.kr/learn/courses/30/lessons/12931) | [자릿수 더하기](programmers/level1/12931.py) |                 |                                                      |
-| [12932](https://programmers.co.kr/learn/courses/30/lessons/12932) | [자연수 뒤집어 배열로 만들기](programmers/level1/12932.py) |                 |                                                      |
-| [12933](https://programmers.co.kr/learn/courses/30/lessons/12933) | [정수 내림차순으로 배치하기](programmers/level1/12933.py) |                 |                                                      |
-| [12934](https://programmers.co.kr/learn/courses/30/lessons/12934) | [정수 제곱근 판별](programmers/level1/12934.py) |                 |                                                      |
+| [12910](https://programmers.co.kr/learn/courses/30/lessons/12910) | [나누어 떨어지는 숫자 배열](programmers/level1/12910.py)     |                 |                                                      |
+| [12912](https://programmers.co.kr/learn/courses/30/lessons/12912) | [두 정수 사이의 합](programmers/level1/12912.py)             |                 |                                                      |
+| [12915](https://programmers.co.kr/learn/courses/30/lessons/12915) | [문자열 내 마음대로 정렬하기](programmers/level1/12915.py)   |                 |                                                      |
+| [12916](https://programmers.co.kr/learn/courses/30/lessons/12916) | [문자열 내 p와 y의 개수](programmers/level1/12916.py)        |                 |                                                      |
+| [12917](https://programmers.co.kr/learn/courses/30/lessons/12917) | [문자열 내림차순으로 배치하기](programmers/level1/12917.py)  |                 |                                                      |
+| [12918](https://programmers.co.kr/learn/courses/30/lessons/12918) | [문자열 다루기 기본](programmers/level1/12918.py)            |                 |                                                      |
+| [12919](https://programmers.co.kr/learn/courses/30/lessons/12919) | [서울에서 김서방 찾기](programmers/level1/12919.py)          |                 |                                                      |
+| [12921](https://programmers.co.kr/learn/courses/30/lessons/12921) | [소수 찾기](programmers/level1/12921.py)                     |                 |                                                      |
+| [12922](https://programmers.co.kr/learn/courses/30/lessons/12922) | [수박수박수박수박수박수?](programmers/level1/12922.py)       |                 |                                                      |
+| [12925](https://programmers.co.kr/learn/courses/30/lessons/12925) | [문자열을 정수로 바꾸기](programmers/level1/12925.py)        |                 |                                                      |
+| [12926](https://programmers.co.kr/learn/courses/30/lessons/12926) | [시저 암호](programmers/level1/12926.py)                     |                 |                                                      |
+| [12928](https://programmers.co.kr/learn/courses/30/lessons/12928) | [약수의 합](programmers/level1/12928.py)                     |                 |                                                      |
+| [12930](https://programmers.co.kr/learn/courses/30/lessons/12930) | [이상한 문자 만들기](programmers/level1/12930.py)            |                 |                                                      |
+| [12931](https://programmers.co.kr/learn/courses/30/lessons/12931) | [자릿수 더하기](programmers/level1/12931.py)                 |                 |                                                      |
+| [12932](https://programmers.co.kr/learn/courses/30/lessons/12932) | [자연수 뒤집어 배열로 만들기](programmers/level1/12932.py)   |                 |                                                      |
+| [12933](https://programmers.co.kr/learn/courses/30/lessons/12933) | [정수 내림차순으로 배치하기](programmers/level1/12933.py)    |                 |                                                      |
+| [12934](https://programmers.co.kr/learn/courses/30/lessons/12934) | [정수 제곱근 판별](programmers/level1/12934.py)              |                 |                                                      |
 | [12935](https://programmers.co.kr/learn/courses/30/lessons/12935) | 제일 작은 수 제거하기 ([python](programmers/level1/12935.py)/[java](programmers/src/level1/Prob_12935.java)) |                 |                                                      |
-| [12937](https://programmers.co.kr/learn/courses/30/lessons/12937) | [짝수와 홀수](programmers/level1/12937.py) |                 |                                                      |
-| [12940](https://programmers.co.kr/learn/courses/30/lessons/12940) | [최대공약수와 최소공배수](programmers/level1/12940.py) | 유클리드 호제법 |                                                      |
-| [12943](https://programmers.co.kr/learn/courses/30/lessons/12943) | [콜라츠 추측](programmers/level1/12943.py) |                 |                                                      |
-| [12944](https://programmers.co.kr/learn/courses/30/lessons/12944) | [평균 구하기](programmers/level1/12944.py) |                 |                                                      |
-| [12947](https://programmers.co.kr/learn/courses/30/lessons/12947) | [하샤드 수](programmers/level1/12947.py) |                 |                                                      |
-| [12948](https://programmers.co.kr/learn/courses/30/lessons/12948) | [핸드폰 번호 가리기](programmers/level1/12948.py) |                 |                                                      |
-| [12950](https://programmers.co.kr/learn/courses/30/lessons/12950) | [행렬의 덧셈](programmers/level1/12950.py) |                 |                                                      |
-| [12954](https://programmers.co.kr/learn/courses/30/lessons/12954) | [x만큼 간격이 있는 n개의 숫자](programmers/level1/12954.py) |                 |                                                      |
-| [12969](https://programmers.co.kr/learn/courses/30/lessons/12969) | [직사각형 별찍기](programmers/level1/12969.py) |                 |                                                      |
+| [12937](https://programmers.co.kr/learn/courses/30/lessons/12937) | [짝수와 홀수](programmers/level1/12937.py)                   |                 |                                                      |
+| [12940](https://programmers.co.kr/learn/courses/30/lessons/12940) | [최대공약수와 최소공배수](programmers/level1/12940.py)       | 유클리드 호제법 |                                                      |
+| [12943](https://programmers.co.kr/learn/courses/30/lessons/12943) | [콜라츠 추측](programmers/level1/12943.py)                   |                 |                                                      |
+| [12944](https://programmers.co.kr/learn/courses/30/lessons/12944) | [평균 구하기](programmers/level1/12944.py)                   |                 |                                                      |
+| [12947](https://programmers.co.kr/learn/courses/30/lessons/12947) | [하샤드 수](programmers/level1/12947.py)                     |                 |                                                      |
+| [12948](https://programmers.co.kr/learn/courses/30/lessons/12948) | [핸드폰 번호 가리기](programmers/level1/12948.py)            |                 |                                                      |
+| [12950](https://programmers.co.kr/learn/courses/30/lessons/12950) | [행렬의 덧셈](programmers/level1/12950.py)                   |                 |                                                      |
+| [12954](https://programmers.co.kr/learn/courses/30/lessons/12954) | [x만큼 간격이 있는 n개의 숫자](programmers/level1/12954.py)  |                 |                                                      |
+| [12969](https://programmers.co.kr/learn/courses/30/lessons/12969) | [직사각형 별찍기](programmers/level1/12969.py)               |                 |                                                      |
 | [12977](https://programmers.co.kr/learn/courses/30/lessons/12977) | [소수 만들기](programmers/level1/12977.py)                   |                 | :memo: _​Summer/Winter Coding(~2018)_                 |
 | [12982](https://programmers.co.kr/learn/courses/30/lessons/12982) | [예산](programmers/level1/12982.py)                          |                 | :memo: _Summer/Winter Coding(~2018)_                 |
 | [17681](https://programmers.co.kr/learn/courses/30/lessons/17681) | [[1차] 비밀지도](programmers/level1/17681.py)                |                 | :memo: _2018 KAKAO BLIND RECRUITMENT_                |
@@ -211,6 +211,7 @@
 | [81301](https://programmers.co.kr/learn/courses/30/lessons/81301) | [숫자 문자열과 영단어](programmers/level1/81301.py)          |                 | :memo: _2021 카카오 채용연계형 인턴십_               |
 | [82612](https://programmers.co.kr/learn/courses/30/lessons/82612) | [부족한 금액 계산하기](programmers/level1/82612.py)          |                 | :memo: _위클리 챌린지  (1주차)_                      |
 | [83201](https://programmers.co.kr/learn/courses/30/lessons/83201) | [상호 평가](programmers/level1/83201.py)                     |                 | :memo: _위클리 챌린지  (2주차)_                      |
+| [84325](https://programmers.co.kr/learn/courses/30/lessons/84325) | [직업군 추천하기](programmers/level1/84325.py)               |                 | :memo: _위클리 챌린지  (4주차)_                      |
 
 
 
