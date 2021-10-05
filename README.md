@@ -15,7 +15,7 @@
   - [Level 2](#level-2) :hatching_chick:
   - [Level 3](#level-3) :hatched_chick:
   - [Level 4](#level-4) :chicken:
-  - [SQL](#sql)​ (알고리즘은 아니지만:dolphin:)
+  - [SQL](#sql) :dolphin: ​(알고리즘은 아니지만ㅎ)
 
 
 
@@ -215,6 +215,7 @@
 | [82612](https://programmers.co.kr/learn/courses/30/lessons/82612) | [부족한 금액 계산하기](programmers/level1/82612.py)          |                 | :memo: _위클리 챌린지  (1주차)_                      |
 | [83201](https://programmers.co.kr/learn/courses/30/lessons/83201) | [상호 평가](programmers/level1/83201.py)                     |                 | :memo: _위클리 챌린지  (2주차)_                      |
 | [84325](https://programmers.co.kr/learn/courses/30/lessons/84325) | [직업군 추천하기](programmers/level1/84325.py)               |                 | :memo: _위클리 챌린지  (4주차)_                      |
+| [85002](https://programmers.co.kr/learn/courses/30/lessons/85002) | [복서 정렬하기](programmers/level1/85002.py)                 |                 | :memo: _위클리 챌린지  (6주차)_                      |
 
 
 
