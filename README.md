@@ -285,6 +285,7 @@
 | [77885](https://programmers.co.kr/learn/courses/30/lessons/77885) | [2개 이하로 다른 비트](programmers/level2/77885.py)      |                                                              | :memo: _월간 코드 챌린지 시즌2_                      |
 | [81302](https://programmers.co.kr/learn/courses/30/lessons/81302) | [거리두기 확인하기](programmers/level2/81302.py)         | BFS                                                          | :memo: _2021 카카오 채용연계형 인턴십_               |
 | [84512](https://programmers.co.kr/learn/courses/30/lessons/84512) | [모음 사전](programmers/level2/84512.py)                 |                                                              | :memo: _위클리 챌린지  (5주차)_                      |
+| [86048](https://programmers.co.kr/learn/courses/30/lessons/86048) | [입실 퇴실](programmers/level2/86048.py)                 |                                                              | :memo: _위클리 챌린지  (7주차)_                      |
 
 
 
