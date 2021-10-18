@@ -146,6 +146,7 @@
 | [17779](https://www.acmicpc.net/problem/17779) | [게리맨더링 2](baekjoon/17779.py)                      | 구현, 브루트 포스, 시뮬레이션                                |                                                              |
 | [17822](https://www.acmicpc.net/problem/17822) | [원판 돌리기](baekjoon/17822.py)                       | 구현, 시뮬레이션, DFS                                        |                                                              |
 | [17837](https://www.acmicpc.net/problem/17837) | [새로운 게임 2](baekjoon/17837.py)                     | 구현, 시뮬레이션                                             |                                                              |
+| [19236](https://www.acmicpc.net/problem/19236) | [청소년 상어](baekjoon/19236.py)                       | 구현, 시뮬레이션, 백트래킹                                   |                                                              |
 | [19238](https://www.acmicpc.net/problem/19238) | [스타트 택시](baekjoon/19238.py)                       | 구현, BFS, 시뮬레이션                                        |                                                              |
 | [20055](https://www.acmicpc.net/problem/20055) | [컨베이어 벨트 위의 로봇](baekjoon/20055.py)           | 구현, 시뮬레이션                                             |                                                              |
 | [20056](https://www.acmicpc.net/problem/20056) | [마법사 상어와 파이어볼](baekjoon/20056.py)            | 구현, 시뮬레이션                                             |                                                              |
