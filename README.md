@@ -145,6 +145,7 @@
 | [17472](https://www.acmicpc.net/problem/17472) | [다리 만들기 2](baekjoon/17472.py)                     | 구현, 브루트 포스, BFS, MST, 크루스칼                        |                                                              |
 | [17779](https://www.acmicpc.net/problem/17779) | [게리맨더링 2](baekjoon/17779.py)                      | 구현, 브루트 포스, 시뮬레이션                                |                                                              |
 | [17822](https://www.acmicpc.net/problem/17822) | [원판 돌리기](baekjoon/17822.py)                       | 구현, 시뮬레이션, DFS                                        |                                                              |
+| [17825](https://www.acmicpc.net/problem/17825) | [주사위 윷놀이](baekjoon/17825.py)                     | 구현, 브루트포스, 백트래킹                                   |                                                              |
 | [17837](https://www.acmicpc.net/problem/17837) | [새로운 게임 2](baekjoon/17837.py)                     | 구현, 시뮬레이션                                             |                                                              |
 | [19236](https://www.acmicpc.net/problem/19236) | [청소년 상어](baekjoon/19236.py)                       | 구현, 시뮬레이션, 백트래킹                                   |                                                              |
 | [19238](https://www.acmicpc.net/problem/19238) | [스타트 택시](baekjoon/19238.py)                       | 구현, BFS, 시뮬레이션                                        |                                                              |
