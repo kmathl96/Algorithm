@@ -218,6 +218,7 @@
 | [83201](https://programmers.co.kr/learn/courses/30/lessons/83201) | [상호 평가](programmers/level1/83201.py)                     |                 |
 | [84325](https://programmers.co.kr/learn/courses/30/lessons/84325) | [직업군 추천하기](programmers/level1/84325.py)               |                 |
 | [85002](https://programmers.co.kr/learn/courses/30/lessons/85002) | [복서 정렬하기](programmers/level1/85002.py)                 |                 |
+| [86051](https://programmers.co.kr/learn/courses/30/lessons/86051) | [없는 숫자 더하기](programmers/level1/86051.py)              |                 |
 | [86491](https://programmers.co.kr/learn/courses/30/lessons/86491) | [최소직사각형](programmers/level1/86491.py)                  |                 |
 
 
