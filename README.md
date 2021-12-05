@@ -63,6 +63,7 @@
 | [2294](https://www.acmicpc.net/problem/2294)   | [동전 2](baekjoon/2294.py)                                   | DP                                                           |
 | [2304](https://www.acmicpc.net/problem/2304)   | [창고 다각형](baekjoon/2304.py)                              | 브루트 포스 \| 스택                                          |
 | [2309](https://www.acmicpc.net/problem/2309)   | [일곱 난쟁이](baekjoon/2309.py)                              | 브루트 포스                                                  |
+| [2485](https://www.acmicpc.net/problem/2485)   | [가로수](baekjoon/2485.py)                                   | 수학, 정수론, 유클리드 호제법                                |
 | [2529](https://www.acmicpc.net/problem/2529)   | [부등호](baekjoon/2529.py)                                   | 브루트포스, 백트래킹                                         |
 | [2580](https://www.acmicpc.net/problem/2580)   | [스도쿠](baekjoon/2580.py)                                   | 백트래킹, DFS                                                |
 | [2606](https://www.acmicpc.net/problem/2606)   | [바이러스](baekjoon/2606.py)                                 | DFS                                                          |
