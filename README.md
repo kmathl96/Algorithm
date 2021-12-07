@@ -30,6 +30,7 @@
 | [1261](https://www.acmicpc.net/problem/1261)   | [알고스팟](baekjoon/1261.py)                                 | BFS \| 다익스트라                                            |
 | [1339](https://www.acmicpc.net/problem/1339)   | [단어 수학](baekjoon/1339.py)                                | 그리디, 브루트포스                                           |
 | [1340](https://www.acmicpc.net/problem/1340)   | [연도 진행바](baekjoon/201231_%EC%83%88%ED%95%B4/a.py)       | 구현,  문자열, 파싱                                          |
+| [1406](https://www.acmicpc.net/problem/1406)   | [에디터](baekjoon/1406.py)                                   | 자료 구조, 스택                                              |
 | [1463](https://www.acmicpc.net/problem/1463)   | [1로 만들기](baekjoon/1463.py)                               | DP                                                           |
 | [1476](https://www.acmicpc.net/problem/1476)   | [날짜 계산](baekjoon/1476.py)                                | 브루트 포스 \| 중국인의 나머지 정리                          |
 | [1495](https://www.acmicpc.net/problem/1495)   | [기타리스트](baekjoon/1495.py)                               | DP                                                           |
