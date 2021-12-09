@@ -101,6 +101,7 @@
 | [11054](https://www.acmicpc.net/problem/11054) | [가장 긴 바이토닉 부분 수열](baekjoon/11054.py)              | DP                                                           |
 | [11055](https://www.acmicpc.net/problem/11055) | [가장 큰 증가 부분 수열](baekjoon/11055.py)                  | DP                                                           |
 | [11057](https://www.acmicpc.net/problem/11057) | [오르막 수](baekjoon/11057.py)                               | DP                                                           |
+| [11060](https://www.acmicpc.net/problem/11060) | [점프 점프](baekjoon/11060.py)                               | DP \| BFS                                                    |
 | [11279](https://www.acmicpc.net/problem/11279) | [최대 힙](baekjoon/11279.py)                                 | 힙                                                           |
 | [11664](https://www.acmicpc.net/problem/11664) | [선분과 점](baekjoon/11664.py)                               | 이분 탐색, 기하학, 3차원 기하학, 삼분 탐색                   |
 | [11722](https://www.acmicpc.net/problem/11722) | [가장 긴 감소하는 부분 수열](baekjoon/11722.py)              | DP                                                           |
