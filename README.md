@@ -73,6 +73,7 @@
 | [2667](https://www.acmicpc.net/problem/2667)   | [단지번호붙이기](baekjoon/2667.py)                           | DFS                                                          |
 | [2805](https://www.acmicpc.net/problem/2805)   | [나무 자르기](baekjoon/2805.py)                              | 이분 탐색                                                    |
 | [3055](https://www.acmicpc.net/problem/3055)   | [탈출](baekjoon/3055.py)                                     | BFS                                                          |
+| [3085](https://www.acmicpc.net/problem/3085)   | [사탕 게임](baekjoon/3085.py)                                | 구현, 브루트포스                                             |
 | [4963](https://www.acmicpc.net/problem/4963)   | [섬의 개수](baekjoon/4963.py)                                | BFS                                                          |
 | [6064](https://www.acmicpc.net/problem/6064)   | [카잉 달력](baekjoon/6064.py)                                | 수학, 정수론, 중국인의 나머지 정리                           |
 | [6588](https://www.acmicpc.net/problem/6588)   | [골드바흐의 추측](baekjoon/6588.py)                          | 에라토스테네스의 체                                          |
