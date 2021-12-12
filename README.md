@@ -24,6 +24,7 @@
 | [1052](https://www.acmicpc.net/problem/1052)   | [물병](baekjoon/1052.py)                                     | 구현, 그리디, 시뮬레이션, 비트마스킹                         |
 | [1062](https://www.acmicpc.net/problem/1062)   | [가르침](baekjoon/1062.py)                                   | 브루트포스, 비트마스킹, 백트래킹                             |
 | [1107](https://www.acmicpc.net/problem/1107)   | [리모컨](baekjoon/1107.py)                                   | 브루트포스                                                   |
+| [1149](https://www.acmicpc.net/problem/1149)   | [RGB거리](baekjoon/1149.py)                                  | DP                                                           |
 | [1182](https://www.acmicpc.net/problem/1182)   | [부분수열의 합](baekjoon/1182.py)                            | 브루트 포스                                                  |
 | [1197](https://www.acmicpc.net/problem/1197)   | [최소 스패닝 트리](baekjoon/1197.py)                         | MST, 크루스칼 \| 프림                                        |
 | [1260](https://www.acmicpc.net/problem/1260)   | [DFS와 BFS](baekjoon/1260.py)                                | DFS, BFS                                                     |
