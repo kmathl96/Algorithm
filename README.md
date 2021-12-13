@@ -57,6 +57,7 @@
 | [1987](https://www.acmicpc.net/problem/1987)   | [알파벳](baekjoon/1987.py)                                   | DFS, 백트래킹                                                |
 | [2003](https://www.acmicpc.net/problem/2003)   | [수들의 합 2](baekjoon/2003.py)                              | 투 포인터                                                    |
 | [2110](https://www.acmicpc.net/problem/2110)   | [공유기 설치](baekjoon/2110.py)                              | 이분 탐색                                                    |
+| [2133](https://www.acmicpc.net/problem/2133)   | [타일 채우기](baekjoon/2133.py)                              | DP                                                           |
 | [2156](https://www.acmicpc.net/problem/2156)   | [포도주 시식](baekjoon/2156.py)                              | DP                                                           |
 | [2178](https://www.acmicpc.net/problem/2178)   | [미로 탐색](baekjoon/2178.py)                                | BFS                                                          |
 | [2193](https://www.acmicpc.net/problem/2193)   | [이친수](baekjoon/2193.py)                                   | DP                                                           |
