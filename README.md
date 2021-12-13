@@ -29,6 +29,7 @@
 | [1197](https://www.acmicpc.net/problem/1197)   | [최소 스패닝 트리](baekjoon/1197.py)                         | MST, 크루스칼 \| 프림                                        |
 | [1260](https://www.acmicpc.net/problem/1260)   | [DFS와 BFS](baekjoon/1260.py)                                | DFS, BFS                                                     |
 | [1261](https://www.acmicpc.net/problem/1261)   | [알고스팟](baekjoon/1261.py)                                 | BFS \| 다익스트라                                            |
+| [1309](https://www.acmicpc.net/problem/1309)   | [동물원](baekjoon/1309.py)                                   | DP                                                           |
 | [1339](https://www.acmicpc.net/problem/1339)   | [단어 수학](baekjoon/1339.py)                                | 그리디, 브루트포스                                           |
 | [1340](https://www.acmicpc.net/problem/1340)   | [연도 진행바](baekjoon/201231_%EC%83%88%ED%95%B4/a.py)       | 구현,  문자열, 파싱                                          |
 | [1406](https://www.acmicpc.net/problem/1406)   | [에디터](baekjoon/1406.py)                                   | 자료 구조, 스택                                              |
