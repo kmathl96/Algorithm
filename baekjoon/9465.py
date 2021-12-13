@@ -4,6 +4,12 @@
 for _ in range(int(input())):
     n = int(input())
     arr = [list(map(int,input().split())) for _ in range(2)]
+
+    # 스티커의 개수가 총 2개인 경우
+    if n==1:
+        print(max(arr[0][0],arr[1][0])) # 둘 중에 더 큰 값 출력
+        continue
+    
     arr[0][1] += arr[1][0] # 왼쪽 밑의 값을 더함
     arr[1][1] += arr[0][0] # 왼쪽 위의 값을 더함
     for i in range(2,n):
