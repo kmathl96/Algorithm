@@ -150,6 +150,7 @@
 | [17140](https://www.acmicpc.net/problem/17140) | [이차원 배열과 연산](baekjoon/17140.py)                      | 구현, 시뮬레이션                                             |
 | [17142](https://www.acmicpc.net/problem/17142) | [연구소 3](baekjoon/17142.py)                                | BFS, 브루트포스                                              |
 | [17281](https://www.acmicpc.net/problem/17281) | [:baseball:](baekjoon/17281.py)                              | 구현, 브루트 포스                                            |
+| [17404](https://www.acmicpc.net/problem/17404) | [RGB거리 2](baekjoon/17404.py)                               | DP                                                           |
 | [17406](https://www.acmicpc.net/problem/17406) | [배열 돌리기 4](baekjoon/17406.py)                           | 구현, 브루트 포스                                            |
 | [17439](https://www.acmicpc.net/problem/17439) | [꽃집](baekjoon/201231_%EC%83%88%ED%95%B4/e.py)​ (시간 초과:alarm_clock:) | 브루트 포스, 백트래킹 \| DP, 이분 탐색, Alien 트릭, 단조 큐를 이용한 최적화 |
 | [17471](https://www.acmicpc.net/problem/17471) | [게리맨더링](baekjoon/17471.py)                              | DFS, 브루트 포스                                             |
