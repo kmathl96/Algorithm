@@ -124,6 +124,7 @@
 | [13549](https://www.acmicpc.net/problem/13549) | [숨바꼭질 3](baekjoon/13549.py)                              | BFS \| 다익스트라                                            |
 | [14002](https://www.acmicpc.net/problem/14002) | [가장 긴 증가하는 부분 수열 4](baekjoon/14002.py)            | DP                                                           |
 | [14226](https://www.acmicpc.net/problem/14226) | [이모티콘](baekjoon/14226.py)                                | BFS \| DP                                                    |
+| [14391](https://www.acmicpc.net/problem/14391) | [종이 조각](baekjoon/14391.py)                               | 브루트포스, 비트마스킹                                       |
 | [14499](https://www.acmicpc.net/problem/14499) | [주사위 굴리기](baekjoon/14499.py)                           | 구현, 브루트 포스                                            |
 | [14500](https://www.acmicpc.net/problem/14500) | [테트로미노](baekjoon/14500.py)                              | 구현, 브루트 포스                                            |
 | [14501](https://www.acmicpc.net/problem/14501) | [퇴사](baekjoon/14501.py)                                    | 브루트 포스 \| DP                                            |
