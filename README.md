@@ -186,7 +186,7 @@
 | [12903](https://programmers.co.kr/learn/courses/30/lessons/12903) | 가운데 글자 가져오기 ([python](programmers/level1/12903.py)/[java](programmers/src/level1/Prob_12903.java)) |                 |
 | [12906](https://programmers.co.kr/learn/courses/30/lessons/12906) | 같은 숫자는 싫어 ([python](programmers/level1/12906.py)/[java](programmers/src/level1/Prob_12906.java)) |                 |
 | [12910](https://programmers.co.kr/learn/courses/30/lessons/12910) | [나누어 떨어지는 숫자 배열](programmers/level1/12910.py)     |                 |
-| [12912](https://programmers.co.kr/learn/courses/30/lessons/12912) | [두 정수 사이의 합](programmers/level1/12912.py)             |                 |
+| [12912](https://programmers.co.kr/learn/courses/30/lessons/12912) | 두 정수 사이의 합 ([python](programmers/level1/12912.py)/[java](programmers/src/level1/Prob_12912.java)) |                 |
 | [12915](https://programmers.co.kr/learn/courses/30/lessons/12915) | [문자열 내 마음대로 정렬하기](programmers/level1/12915.py)   |                 |
 | [12916](https://programmers.co.kr/learn/courses/30/lessons/12916) | 문자열 내 p와 y의 개수 ([python](programmers/level1/12916.py)/[java](programmers/src/level1/Prob_12935.java)) |                 |
 | [12917](https://programmers.co.kr/learn/courses/30/lessons/12917) | [문자열 내림차순으로 배치하기](programmers/level1/12917.py)  |                 |
