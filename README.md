@@ -274,7 +274,7 @@
 | [42583](https://programmers.co.kr/learn/courses/30/lessons/42583) | [다리를 지나는 트럭](programmers/level2/42583.py)            | 스택/큐                                                      |
 | [42584](https://programmers.co.kr/learn/courses/30/lessons/42584) | [주식가격](programmers/level2/42584.py)                      | 스택/큐                                                      |
 | [42586](https://programmers.co.kr/learn/courses/30/lessons/42586) | 기능개발 ([python](programmers/level2/42586.py)/[java](programmers/src/level2/Prob_42586.java)) | 스택/큐                                                      |
-| [42587](https://programmers.co.kr/learn/courses/30/lessons/42587) | [프린터](programmers/level2/42587.py)                        | 스택/큐                                                      |
+| [42587](https://programmers.co.kr/learn/courses/30/lessons/42587) | 프린터 ([python](programmers/level2/42587.py)/[java](programmers/src/level2/Prob_42587.java)) | 스택/큐                                                      |
 | [42626](https://programmers.co.kr/learn/courses/30/lessons/42626) | [더 맵게](programmers/level2/42626.py)                       | 힙(Heap)                                                     |
 | [42746](https://programmers.co.kr/learn/courses/30/lessons/42746) | [가장 큰 수](programmers/level2/42746.py)                    | ([블로그](https://yurimkoo.github.io/algorithm/2020/06/07/greatest-number.html) 참고) |
 | [42747](https://programmers.co.kr/learn/courses/30/lessons/42747) | [H-Index](programmers/level2/42747.py)                       | 정렬                                                         |
