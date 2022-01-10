@@ -190,7 +190,7 @@
 | [12915](https://programmers.co.kr/learn/courses/30/lessons/12915) | [문자열 내 마음대로 정렬하기](programmers/level1/12915.py)   |                                            |
 | [12916](https://programmers.co.kr/learn/courses/30/lessons/12916) | 문자열 내 p와 y의 개수 ([python](programmers/level1/12916.py)/[java](programmers/src/level1/Prob_12916.java)) |                                            |
 | [12917](https://programmers.co.kr/learn/courses/30/lessons/12917) | 문자열 내림차순으로 배치하기 ([python](programmers/level1/12917.py)/[java](programmers/src/level1/Prob_12917.java)) |                                            |
-| [12918](https://programmers.co.kr/learn/courses/30/lessons/12918) | [문자열 다루기 기본](programmers/level1/12918.py)            |                                            |
+| [12918](https://programmers.co.kr/learn/courses/30/lessons/12918) | 문자열 다루기 기본([python](programmers/level1/12918.py)/[java](programmers/src/level1/Prob_12918.java)) |                                            |
 | [12919](https://programmers.co.kr/learn/courses/30/lessons/12919) | [서울에서 김서방 찾기](programmers/level1/12919.py)          |                                            |
 | [12921](https://programmers.co.kr/learn/courses/30/lessons/12921) | [소수 찾기](programmers/level1/12921.py)                     |                                            |
 | [12922](https://programmers.co.kr/learn/courses/30/lessons/12922) | [수박수박수박수박수박수?](programmers/level1/12922.py)       |                                            |
