@@ -74,7 +74,7 @@
 | [2529](https://www.acmicpc.net/problem/2529)   | [부등호](baekjoon/2529.py)                                   | 브루트포스, 백트래킹                                         |
 | [2580](https://www.acmicpc.net/problem/2580)   | [스도쿠](baekjoon/2580.py)                                   | 백트래킹, DFS                                                |
 | [2606](https://www.acmicpc.net/problem/2606)   | [바이러스](baekjoon/2606.py)                                 | DFS                                                          |
-| [2609](https://www.acmicpc.net/problem/2609)   | [최대공약수와 최소공배수](baekjoon/2609.py)                  | 유클리드 호제법                                              |
+| [2609](https://www.acmicpc.net/problem/2609)   | 최대공약수와 최소공배수 ([python](baekjoon/2609.py)/[java](baekjoon/src/baekjoon/Prob_2609.java)) | 유클리드 호제법                                              |
 | [2667](https://www.acmicpc.net/problem/2667)   | [단지번호붙이기](baekjoon/2667.py)                           | DFS                                                          |
 | [2805](https://www.acmicpc.net/problem/2805)   | [나무 자르기](baekjoon/2805.py)                              | 이분 탐색                                                    |
 | [3055](https://www.acmicpc.net/problem/3055)   | [탈출](baekjoon/3055.py)                                     | BFS                                                          |
