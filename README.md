@@ -69,7 +69,7 @@
 | [2304](https://www.acmicpc.net/problem/2304)   | [창고 다각형](baekjoon/2304.py)                              | 브루트 포스 \| 스택                                          |
 | [2309](https://www.acmicpc.net/problem/2309)   | [일곱 난쟁이](baekjoon/2309.py)                              | 브루트 포스                                                  |
 | [2485](https://www.acmicpc.net/problem/2485)   | [가로수](baekjoon/2485.py)                                   | 수학, 정수론, 유클리드 호제법                                |
-| [2501](https://www.acmicpc.net/problem/2501)   | 약수 구하기 ([java](baekjoon/src/baekjoon/Prob_2501.java))   |                                                              |
+| [2501](https://www.acmicpc.net/problem/2501)   | 약수 구하기 ([java](baekjoon/src/baekjoon/Prob_2501.java))   | 수학, 브루트포스                                             |
 | [2512](https://www.acmicpc.net/problem/2512)   | [예산](baekjoon/2512.py)                                     | 이분 탐색                                                    |
 | [2529](https://www.acmicpc.net/problem/2529)   | [부등호](baekjoon/2529.py)                                   | 브루트포스, 백트래킹                                         |
 | [2580](https://www.acmicpc.net/problem/2580)   | [스도쿠](baekjoon/2580.py)                                   | 백트래킹, DFS                                                |
@@ -79,6 +79,7 @@
 | [2805](https://www.acmicpc.net/problem/2805)   | [나무 자르기](baekjoon/2805.py)                              | 이분 탐색                                                    |
 | [3055](https://www.acmicpc.net/problem/3055)   | [탈출](baekjoon/3055.py)                                     | BFS                                                          |
 | [3085](https://www.acmicpc.net/problem/3085)   | [사탕 게임](baekjoon/3085.py)                                | 구현, 브루트포스                                             |
+| [3460](https://www.acmicpc.net/problem/3460)   | 이진수 ([java](baekjoon/src/baekjoon/Prob_3460.java))        | 수학, 구현                                                   |
 | [4963](https://www.acmicpc.net/problem/4963)   | [섬의 개수](baekjoon/4963.py)                                | BFS                                                          |
 | [6064](https://www.acmicpc.net/problem/6064)   | [카잉 달력](baekjoon/6064.py)                                | 수학, 정수론, 중국인의 나머지 정리                           |
 | [6588](https://www.acmicpc.net/problem/6588)   | [골드바흐의 추측](baekjoon/6588.py)                          | 에라토스테네스의 체                                          |
