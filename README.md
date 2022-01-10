@@ -216,7 +216,7 @@
 | [12982](https://programmers.co.kr/learn/courses/30/lessons/12982) | [예산](programmers/level1/12982.py)                          |                                            |
 | [17681](https://programmers.co.kr/learn/courses/30/lessons/17681) | [[1차] 비밀지도](programmers/level1/17681.py)                |                                            |
 | [17682](https://programmers.co.kr/learn/courses/30/lessons/17682) | [[1차] 다트 게임](programmers/level1/17682.py)               |                                            |
-| [42576](https://programmers.co.kr/learn/courses/30/lessons/42576) | [완주하지 못한 선수](programmers/level1/42576.py)            | 해시                                       |
+| [42576](https://programmers.co.kr/learn/courses/30/lessons/42576) | 완주하지 못한 선수 ([python](programmers/level1/42576.py)/[java](programmers/src/level1/Prob_42576.java)) | 해시                                       |
 | [42748](https://programmers.co.kr/learn/courses/30/lessons/42748) | [K번째수](programmers/level1/42748.py)                       | 정렬                                       |
 | [42840](https://programmers.co.kr/learn/courses/30/lessons/42840) | [모의고사](programmers/level1/42840.py)                      | 브루트 포스                                |
 | [42862](https://programmers.co.kr/learn/courses/30/lessons/42862) | [체육복](programmers/level1/42862.py)                        | 탐욕법(Greedy)                             |
