@@ -250,7 +250,7 @@
 | [1844](https://programmers.co.kr/learn/courses/30/lessons/1844) | [게임 맵 최단거리](programmers/level2/1844.py)               | BFS                                                          |
 | [12899](https://programmers.co.kr/learn/courses/30/lessons/12899) | [124 나라의 숫자](programmers/level2/12899.py)               |                                                              |
 | [12905](https://programmers.co.kr/learn/courses/30/lessons/12905) | [가장 큰 정사각형 찾기](programmers/level2/12905.py)         | DP                                                           |
-| [12909](https://programmers.co.kr/learn/courses/30/lessons/12909) | [올바른 괄호](programmers/level2/12909.py)                   | 스택                                                         |
+| [12909](https://programmers.co.kr/learn/courses/30/lessons/12909) | 올바른 괄호 ([python](programmers/level2/12909.py)/[java](programmers/src/level2/Prob_12909.java)) | 스택                                                         |
 | [12911](https://programmers.co.kr/learn/courses/30/lessons/12911) | [다음 큰 숫자](programmers/level2/12911.py)                  |                                                              |
 | [12913](https://programmers.co.kr/learn/courses/30/lessons/12913) | [땅따먹기](programmers/level2/12913.py)                      | DP                                                           |
 | [12924](https://programmers.co.kr/learn/courses/30/lessons/12924) | [숫자의 표현](programmers/level2/12924.py)                   |                                                              |
