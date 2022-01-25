@@ -126,6 +126,7 @@
 | [13458](https://www.acmicpc.net/problem/13458) | [시험 감독](baekjoon/13458.py)                               | 수학                                                         |
 | [13460](https://www.acmicpc.net/problem/13460) | [구슬 탈출 2](baekjoon/13460.py)                             | 구현, BFS                                                    |
 | [13549](https://www.acmicpc.net/problem/13549) | [숨바꼭질 3](baekjoon/13549.py)                              | BFS \| 다익스트라                                            |
+| [13913](https://www.acmicpc.net/problem/13913) | [숨바꼭질 4](baekjoon/13913.py)                              | BFS                                                          |
 | [14002](https://www.acmicpc.net/problem/14002) | [가장 긴 증가하는 부분 수열 4](baekjoon/14002.py)            | DP                                                           |
 | [14226](https://www.acmicpc.net/problem/14226) | [이모티콘](baekjoon/14226.py)                                | BFS \| DP                                                    |
 | [14391](https://www.acmicpc.net/problem/14391) | [종이 조각](baekjoon/14391.py)                               | 브루트포스, 비트마스킹                                       |
