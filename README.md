@@ -87,6 +87,7 @@
 | [6064](https://www.acmicpc.net/problem/6064)   | [카잉 달력](baekjoon/6064.py)                                | 수학, 정수론, 중국인의 나머지 정리                           |
 | [6588](https://www.acmicpc.net/problem/6588)   | [골드바흐의 추측](baekjoon/6588.py)                          | 에라토스테네스의 체                                          |
 | [6603](https://www.acmicpc.net/problem/6603)   | [로또](baekjoon/6603.py)                                     | 브루트 포스, 조합론 \| 재귀                                  |
+| [6987](https://www.acmicpc.net/problem/6987)   | [월드컵](baekjoon/6987.py)                                   | 브루트포스, 백트래킹                                         |
 | [7576](https://www.acmicpc.net/problem/7576)   | [토마토](baekjoon/7576.py)                                   | BFS                                                          |
 | [9019](https://www.acmicpc.net/problem/9019)   | [DSLR](baekjoon/9019.py)                                     | BFS                                                          |
 | [9095](https://www.acmicpc.net/problem/9095)   | [1, 2, 3 더하기](baekjoon/9095.py)                           | 브루트 포스 \| DP                                            |
