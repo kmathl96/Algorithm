@@ -103,6 +103,7 @@
 | [10819](https://www.acmicpc.net/problem/10819) | [차이를 최대로](baekjoon/10819.py)                           | 브루트 포스, 백트래킹                                        |
 | [10828](https://www.acmicpc.net/problem/10828) | [스택](baekjoon/10828.py)                                    | 자료 구조, 스택                                              |
 | [10844](https://www.acmicpc.net/problem/10844) | [쉬운 계단 수](baekjoon/10844.py)                            | DP                                                           |
+| [10845](https://www.acmicpc.net/problem/10845) | [큐](baekjoon/10845.py)                                      | 자료 구조, 큐                                                |
 | [10971](https://www.acmicpc.net/problem/10971) | [외판원 순회 2](baekjoon/10971.py)                           | 브루트 포스, 백트래킹                                        |
 | [10972](https://www.acmicpc.net/problem/10972) | [다음 순열](baekjoon/10972.py)                               | 브루트 포스, 수학                                            |
 | [10973](https://www.acmicpc.net/problem/10973) | [이전 순열](baekjoon/10973.py)                               | 브루트 포스, 수학                                            |
