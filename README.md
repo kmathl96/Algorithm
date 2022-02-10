@@ -57,6 +57,7 @@
 | [1966](https://www.acmicpc.net/problem/1966)   | [프린터 큐](baekjoon/1966.py)                                | 큐, 구현, 자료 구조, 시뮬레이션                              |
 | [1978](https://www.acmicpc.net/problem/1978)   | [소수 찾기](baekjoon/1978.py)                                | 에라토스테네스의 체                                          |
 | [1987](https://www.acmicpc.net/problem/1987)   | [알파벳](baekjoon/1987.py)                                   | DFS, 백트래킹                                                |
+| [1991](https://www.acmicpc.net/problem/1991)   | [트리 순회](baekjoon/1991.py)                                | 트리, 재귀                                                   |
 | [2003](https://www.acmicpc.net/problem/2003)   | [수들의 합 2](baekjoon/2003.py)                              | 투 포인터                                                    |
 | [2110](https://www.acmicpc.net/problem/2110)   | [공유기 설치](baekjoon/2110.py)                              | 이분 탐색                                                    |
 | [2133](https://www.acmicpc.net/problem/2133)   | [타일 채우기](baekjoon/2133.py)                              | DP                                                           |
