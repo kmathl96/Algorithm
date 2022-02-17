@@ -167,6 +167,7 @@
 | [16637](https://www.acmicpc.net/problem/16637) | [괄호 추가하기](baekjoon/16637.py)                           | 브루트 포스                                                  |
 | [16929](https://www.acmicpc.net/problem/16929) | [Two Dots](baekjoon/16929.py)                                | DFS                                                          |
 | [16953](https://www.acmicpc.net/problem/16953) | [A → B](baekjoon/16953.py)                                   | BFS                                                          |
+| [16967](https://www.acmicpc.net/problem/16967) | [배열 복원하기](baekjoon/16967.py)                           | 구현                                                         |
 | [17070](https://www.acmicpc.net/problem/17070) | [파이프 옮기기 1](baekjoon/17070.py)                         | DP                                                           |
 | [17140](https://www.acmicpc.net/problem/17140) | [이차원 배열과 연산](baekjoon/17140.py)                      | 구현, 시뮬레이션                                             |
 | [17142](https://www.acmicpc.net/problem/17142) | [연구소 3](baekjoon/17142.py)                                | BFS, 브루트포스                                              |
