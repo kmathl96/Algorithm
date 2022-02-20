@@ -86,6 +86,7 @@
 | [3460](https://www.acmicpc.net/problem/3460)   | 이진수 ([java](baekjoon/src/baekjoon/Prob_3460.java))        | 수학, 구현                                                   |
 | [3568](https://www.acmicpc.net/problem/3568)   | [iSharp](baekjoon/3568.py)                                   | 문자열, 파싱                                                 |
 | [4963](https://www.acmicpc.net/problem/4963)   | [섬의 개수](baekjoon/4963.py)                                | BFS                                                          |
+| [5557](https://www.acmicpc.net/problem/5557)   | [1학년](baekjoon/5557.py)                                    | DP                                                           |
 | [6064](https://www.acmicpc.net/problem/6064)   | [카잉 달력](baekjoon/6064.py)                                | 수학, 정수론, 중국인의 나머지 정리                           |
 | [6588](https://www.acmicpc.net/problem/6588)   | [골드바흐의 추측](baekjoon/6588.py)                          | 에라토스테네스의 체                                          |
 | [6603](https://www.acmicpc.net/problem/6603)   | [로또](baekjoon/6603.py)                                     | 브루트 포스, 조합론 \| 재귀                                  |
