@@ -154,6 +154,7 @@
 | [15649](https://www.acmicpc.net/problem/15649) | [N과 M (1)](baekjoon/15649.py)                               | 브루트 포스                                                  |
 | [15658](https://www.acmicpc.net/problem/15658) | [연산자 끼워넣기 (2)](baekjoon/15658.py)                     | 구현, 브루트 포스, 백트래킹                                  |
 | [15661](https://www.acmicpc.net/problem/15661) | [링크와 스타트](baekjoon/15661.py)                           | 브루트 포스                                                  |
+| [15662](https://www.acmicpc.net/problem/15662) | [톱니바퀴 (2)](baekjoon/15662.py)                            | 구현, 시뮬레이션                                             |
 | [15683](https://www.acmicpc.net/problem/15683) | [감시](baekjoon/15683.py)                                    | 구현, 브루트 포스, 시뮬레이션                                |
 | [15684](https://www.acmicpc.net/problem/15684) | [사다리 조작](baekjoon/15684.py)                             | 구현, 브루트포스, 백트래킹                                   |
 | [15685](https://www.acmicpc.net/problem/15685) | [드래곤 커브](baekjoon/15685.py)                             | [회전변환](https://ko.wikipedia.org/wiki/%ED%9A%8C%EC%A0%84%EB%B3%80%ED%99%98%ED%96%89%EB%A0%AC), 구현, 시뮬레이션 |
