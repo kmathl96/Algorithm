@@ -26,6 +26,7 @@
 | [1038](https://www.acmicpc.net/problem/1038)   | [감소하는 수](baekjoon/1038.py)                              | 브루트포스, 백트래킹                                         |
 | [1052](https://www.acmicpc.net/problem/1052)   | [물병](baekjoon/1052.py)                                     | 구현, 그리디, 시뮬레이션, 비트마스킹                         |
 | [1062](https://www.acmicpc.net/problem/1062)   | [가르침](baekjoon/1062.py)                                   | 브루트포스, 비트마스킹, 백트래킹                             |
+| [1063](https://www.acmicpc.net/problem/1063)   | [킹](baekjoon/1063.py)                                       | 구현, 시뮬레이션                                             |
 | [1107](https://www.acmicpc.net/problem/1107)   | [리모컨](baekjoon/1107.py)                                   | 브루트포스                                                   |
 | [1149](https://www.acmicpc.net/problem/1149)   | [RGB거리](baekjoon/1149.py)                                  | DP                                                           |
 | [1182](https://www.acmicpc.net/problem/1182)   | [부분수열의 합](baekjoon/1182.py)                            | 브루트 포스                                                  |
