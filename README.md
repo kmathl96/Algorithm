@@ -132,6 +132,7 @@
 | [11060](https://www.acmicpc.net/problem/11060) | [점프 점프](baekjoon/11060.py)                               | DP \| BFS                                                    |
 | [11279](https://www.acmicpc.net/problem/11279) | [최대 힙](baekjoon/11279.py)                                 | 힙                                                           |
 | [11403](https://www.acmicpc.net/problem/11403) | [경로 찾기](baekjoon/11403.py)                               | 그래프 이론, 그래프 탐색, 플로이드-와샬                      |
+| [11404](https://www.acmicpc.net/problem/11404) | [플로이드](baekjoon/11404.py)                                | 플로이드-와샬                                                |
 | [11664](https://www.acmicpc.net/problem/11664) | [선분과 점](baekjoon/11664.py)                               | 이분 탐색, 기하학, 3차원 기하학, 삼분 탐색                   |
 | [11722](https://www.acmicpc.net/problem/11722) | [가장 긴 감소하는 부분 수열](baekjoon/11722.py)              | DP                                                           |
 | [11723](https://www.acmicpc.net/problem/11723) | [집합](baekjoon/11723.py)                                    | 브루트 포스 \| 비트마스킹                                    |
