@@ -78,6 +78,7 @@
 | [2294](https://www.acmicpc.net/problem/2294)   | [동전 2](baekjoon/2294.py)                                   | DP                                                           |
 | [2304](https://www.acmicpc.net/problem/2304)   | [창고 다각형](baekjoon/2304.py)                              | 브루트 포스 \| 스택                                          |
 | [2309](https://www.acmicpc.net/problem/2309)   | [일곱 난쟁이](baekjoon/2309.py)                              | 브루트 포스                                                  |
+| [2468](https://www.acmicpc.net/problem/2468)   | [안전 영역](baekjoon/2468.py)                                | 브루트포스, DFS                                              |
 | [2485](https://www.acmicpc.net/problem/2485)   | [가로수](baekjoon/2485.py)                                   | 수학, 정수론, 유클리드 호제법                                |
 | [2501](https://www.acmicpc.net/problem/2501)   | 약수 구하기 ([java](baekjoon/src/baekjoon/Prob_2501.java))   | 수학, 브루트포스                                             |
 | [2512](https://www.acmicpc.net/problem/2512)   | [예산](baekjoon/2512.py)                                     | 이분 탐색                                                    |
