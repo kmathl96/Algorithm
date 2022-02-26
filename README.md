@@ -41,6 +41,7 @@
 | [1463](https://www.acmicpc.net/problem/1463)   | [1로 만들기](baekjoon/1463.py)                               | DP                                                           |
 | [1476](https://www.acmicpc.net/problem/1476)   | [날짜 계산](baekjoon/1476.py)                                | 브루트 포스 \| 중국인의 나머지 정리                          |
 | [1495](https://www.acmicpc.net/problem/1495)   | [기타리스트](baekjoon/1495.py)                               | DP                                                           |
+| [1520](https://www.acmicpc.net/problem/1520)   | [내리막 길](baekjoon/1520.py)                                | DP, DFS                                                      |
 | [1644](https://www.acmicpc.net/problem/1644)   | [소수의 연속합](baekjoon/1644.py)                            | 투 포인터, 에라토스테네스의 체, 수학, 정수론                 |
 | [1654](https://www.acmicpc.net/problem/1654)   | [랜선 자르기](baekjoon/1654.py)                              | 이분 탐색, 매개 변수 탐색                                    |
 | [1662](https://www.acmicpc.net/problem/1662)   | [압축](baekjoon/1662.py)                                     | 스택, 재귀                                                   |
