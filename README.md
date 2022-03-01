@@ -60,6 +60,7 @@
 | [1927](https://www.acmicpc.net/problem/1927)   | [최소 힙](baekjoon/1927.py)                                  | 힙                                                           |
 | [1932](https://www.acmicpc.net/problem/1932)   | [정수 삼각형](baekjoon/1932.py)                              | DP                                                           |
 | [1934](https://www.acmicpc.net/problem/1934)   | [최소공배수](baekjoon/1934.py)                               | 유클리드 호제법                                              |
+| [1956](https://www.acmicpc.net/problem/1956)   | [운동](baekjoon/1956.py)                                     | 플로이드-와샬                                                |
 | [1966](https://www.acmicpc.net/problem/1966)   | [프린터 큐](baekjoon/1966.py)                                | 큐, 구현, 자료 구조, 시뮬레이션                              |
 | [1978](https://www.acmicpc.net/problem/1978)   | [소수 찾기](baekjoon/1978.py)                                | 에라토스테네스의 체                                          |
 | [1987](https://www.acmicpc.net/problem/1987)   | [알파벳](baekjoon/1987.py)                                   | DFS, 백트래킹                                                |
