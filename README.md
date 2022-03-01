@@ -113,6 +113,7 @@
 | [9613](https://www.acmicpc.net/problem/9613)   | [GCD 합](baekjoon/9613.py)                                   | 유클리드 호제법                                              |
 | [9663](https://www.acmicpc.net/problem/9663)   | [N-Queen](baekjoon/9663.py)                                  | 브루트포스, 백트래킹                                         |
 | [10026](https://www.acmicpc.net/problem/10026) | [적록색약](baekjoon/10026.py)                                | DFS, BFS                                                     |
+| [10159](https://www.acmicpc.net/problem/10159) | [저울](baekjoon/10159.py)                                    | 플로이드-와샬                                                |
 | [10815](https://www.acmicpc.net/problem/10815) | [숫자 카드](baekjoon/10815.py)                               | 이분 탐색                                                    |
 | [10816](https://www.acmicpc.net/problem/10816) | [숫자 카드 2](baekjoon/10816.py)                             | 해시, 이분 탐색                                              |
 | [10819](https://www.acmicpc.net/problem/10819) | [차이를 최대로](baekjoon/10819.py)                           | 브루트 포스, 백트래킹                                        |
