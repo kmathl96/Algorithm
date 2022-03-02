@@ -57,6 +57,7 @@
 | [1874](https://www.acmicpc.net/problem/1874)   | [스택 수열](baekjoon/1874.py)                                | 스택                                                         |
 | [1890](https://www.acmicpc.net/problem/1890)   | [점프](baekjoon/1890.py)                                     | DP                                                           |
 | [1912](https://www.acmicpc.net/problem/1912)   | [연속합](baekjoon/1912.py)                                   | DP                                                           |
+| [1916](https://www.acmicpc.net/problem/1916)   | [최소비용 구하기](baekjoon/1916.py)                          | 다익스트라                                                   |
 | [1920](https://www.acmicpc.net/problem/1920)   | [수 찾기](baekjoon/1920.py)                                  | 이분 탐색                                                    |
 | [1927](https://www.acmicpc.net/problem/1927)   | [최소 힙](baekjoon/1927.py)                                  | 힙                                                           |
 | [1932](https://www.acmicpc.net/problem/1932)   | [정수 삼각형](baekjoon/1932.py)                              | DP                                                           |
