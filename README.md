@@ -206,6 +206,7 @@
 | [17822](https://www.acmicpc.net/problem/17822) | [원판 돌리기](baekjoon/17822.py)                             | 구현, 시뮬레이션, DFS                                        |
 | [17825](https://www.acmicpc.net/problem/17825) | [주사위 윷놀이](baekjoon/17825.py)                           | 구현, 브루트포스, 백트래킹                                   |
 | [17837](https://www.acmicpc.net/problem/17837) | [새로운 게임 2](baekjoon/17837.py)                           | 구현, 시뮬레이션                                             |
+| [18352](https://www.acmicpc.net/problem/18352) | [특정 거리의 도시 찾기](baekjoon/18352.py)                   | 다익스트라 \| BFS                                            |
 | [19236](https://www.acmicpc.net/problem/19236) | [청소년 상어](baekjoon/19236.py)                             | 구현, 시뮬레이션, 백트래킹                                   |
 | [19237](https://www.acmicpc.net/problem/19237) | [어른 상어](baekjoon/19237.py)                               | 구현, 시뮬레이션                                             |
 | [19238](https://www.acmicpc.net/problem/19238) | [스타트 택시](baekjoon/19238.py)                             | 구현, BFS, 시뮬레이션                                        |
