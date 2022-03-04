@@ -148,6 +148,7 @@
 | [11724](https://www.acmicpc.net/problem/11724) | [연결 요소의 개수](baekjoon/11724.py)                        | BFS                                                          |
 | [11726](https://www.acmicpc.net/problem/11726) | [2×n 타일링](baekjoon/11726.py)                              | DP                                                           |
 | [11727](https://www.acmicpc.net/problem/11727) | [2×n 타일링 2](baekjoon/11727.py)                            | DP                                                           |
+| [11779](https://www.acmicpc.net/problem/11779) | [최소비용 구하기 2](baekjoon/11779.py)                       | 다익스트라                                                   |
 | [12026](https://www.acmicpc.net/problem/12026) | [BOJ 거리](baekjoon/12026.py)                                | DP                                                           |
 | [12100](https://www.acmicpc.net/problem/12100) | [2048 (Easy)](baekjoon/12100.py)                             | 구현, 브루트포스, 시뮬레이션, 백트래킹                       |
 | [12851](https://www.acmicpc.net/problem/12851) | [숨바꼭질 2](baekjoon/12851.py)                              | BFS                                                          |
