@@ -121,6 +121,7 @@
 | [9663](https://www.acmicpc.net/problem/9663)   | [N-Queen](baekjoon/9663.py)                                  | 브루트포스, 백트래킹                                         |
 | [10026](https://www.acmicpc.net/problem/10026) | [적록색약](baekjoon/10026.py)                                | DFS, BFS                                                     |
 | [10159](https://www.acmicpc.net/problem/10159) | [저울](baekjoon/10159.py)                                    | 플로이드-와샬                                                |
+| [10217](https://www.acmicpc.net/problem/10217) | [KCM Travel](baekjoon/10217.py)                              | 다익스트라, DP                                               |
 | [10282](https://www.acmicpc.net/problem/10282) | [해킹](baekjoon/10282.py)                                    | 다익스트라                                                   |
 | [10815](https://www.acmicpc.net/problem/10815) | [숫자 카드](baekjoon/10815.py)                               | 이분 탐색                                                    |
 | [10816](https://www.acmicpc.net/problem/10816) | [숫자 카드 2](baekjoon/10816.py)                             | 해시, 이분 탐색                                              |
