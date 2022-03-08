@@ -51,6 +51,7 @@
 | [1697](https://www.acmicpc.net/problem/1697)   | [숨바꼭질](baekjoon/1697.py)                                 | BFS                                                          |
 | [1699](https://www.acmicpc.net/problem/1699)   | [제곱수의 합](baekjoon/1699.py)                              | DP, 수학, 정수론                                             |
 | [1707](https://www.acmicpc.net/problem/1707)   | [이분 그래프](baekjoon/1707.py)                              | BFS                                                          |
+| [1747](https://www.acmicpc.net/problem/1747)   | [소수&팰린드롬](baekjoon/1747.py)                            | 수학, 브루트포스, 정수론, 소수 판정, 에라토스테네스의 체     |
 | [1748](https://www.acmicpc.net/problem/1748)   | [수 이어 쓰기 1](baekjoon/1748.py)                           | 수학, 구현                                                   |
 | [1753](https://www.acmicpc.net/problem/1753)   | [최단경로](baekjoon/1753.py)                                 | 다익스트라                                                   |
 | [1759](https://www.acmicpc.net/problem/1759)   | [암호 만들기](baekjoon/1759.py)                              | 브루트 포스, 수학, 조합론, 백트래킹                          |
