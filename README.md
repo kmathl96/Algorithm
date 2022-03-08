@@ -57,6 +57,7 @@
 | [1748](https://www.acmicpc.net/problem/1748)   | [수 이어 쓰기 1](baekjoon/1748.py)                           | 수학, 구현                                                   |
 | [1753](https://www.acmicpc.net/problem/1753)   | [최단경로](baekjoon/1753.py)                                 | 다익스트라                                                   |
 | [1759](https://www.acmicpc.net/problem/1759)   | [암호 만들기](baekjoon/1759.py)                              | 브루트 포스, 수학, 조합론, 백트래킹                          |
+| [1764](https://www.acmicpc.net/problem/1764)   | [듣보잡](baekjoon/1764.py)                                   | 자료 구조, 문자열, 정렬                                      |
 | [1789](https://www.acmicpc.net/problem/1789)   | [수들의 합](baekjoon/1789.py)                                | 수학, 그리디                                                 |
 | [1806](https://www.acmicpc.net/problem/1806)   | [부분합](baekjoon/1806.py)                                   | 투 포인터                                                    |
 | [1874](https://www.acmicpc.net/problem/1874)   | [스택 수열](baekjoon/1874.py)                                | 스택                                                         |
