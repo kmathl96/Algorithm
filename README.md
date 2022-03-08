@@ -64,6 +64,7 @@
 | [1916](https://www.acmicpc.net/problem/1916)   | [최소비용 구하기](baekjoon/1916.py)                          | 다익스트라                                                   |
 | [1920](https://www.acmicpc.net/problem/1920)   | [수 찾기](baekjoon/1920.py)                                  | 이분 탐색                                                    |
 | [1927](https://www.acmicpc.net/problem/1927)   | [최소 힙](baekjoon/1927.py)                                  | 힙                                                           |
+| [1931](https://www.acmicpc.net/problem/1931)   | [회의실 배정](baekjoon/1931.py)                              | 그리디, 정렬                                                 |
 | [1932](https://www.acmicpc.net/problem/1932)   | [정수 삼각형](baekjoon/1932.py)                              | DP                                                           |
 | [1934](https://www.acmicpc.net/problem/1934)   | [최소공배수](baekjoon/1934.py)                               | 유클리드 호제법                                              |
 | [1956](https://www.acmicpc.net/problem/1956)   | [운동](baekjoon/1956.py)                                     | 플로이드-와샬                                                |
