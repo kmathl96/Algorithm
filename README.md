@@ -70,6 +70,7 @@
 | [1931](https://www.acmicpc.net/problem/1931)   | [회의실 배정](baekjoon/1931.py)                              | 그리디, 정렬                                                 |
 | [1932](https://www.acmicpc.net/problem/1932)   | [정수 삼각형](baekjoon/1932.py)                              | DP                                                           |
 | [1934](https://www.acmicpc.net/problem/1934)   | [최소공배수](baekjoon/1934.py)                               | 유클리드 호제법                                              |
+| [1946](https://www.acmicpc.net/problem/1946)   | [신입 사원](baekjoon/1946.py)                                | 그리디, 정렬                                                 |
 | [1956](https://www.acmicpc.net/problem/1956)   | [운동](baekjoon/1956.py)                                     | 플로이드-와샬                                                |
 | [1966](https://www.acmicpc.net/problem/1966)   | [프린터 큐](baekjoon/1966.py)                                | 큐, 구현, 자료 구조, 시뮬레이션                              |
 | [1978](https://www.acmicpc.net/problem/1978)   | [소수 찾기](baekjoon/1978.py)                                | 에라토스테네스의 체                                          |
