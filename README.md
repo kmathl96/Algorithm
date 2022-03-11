@@ -371,6 +371,7 @@
 | [86052](https://programmers.co.kr/learn/courses/30/lessons/86052) | [빛의 경로 사이클](programmers/level2/86052.py)              |                                                              |
 | [87390](https://programmers.co.kr/learn/courses/30/lessons/87390) | [n^2 배열 자르기](programmers/level2/87390.py)               |                                                              |
 | [87946](https://programmers.co.kr/learn/courses/30/lessons/87946) | [피로도](programmers/level2/87946.py)                        | 순열                                                         |
+| [92335](https://programmers.co.kr/learn/courses/30/lessons/92335) | [k진수에서 소수 개수 구하기](programmers/level2/92335.py)    | 소수 판정                                                    |
 
 
 
