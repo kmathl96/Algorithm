@@ -298,6 +298,7 @@
 | [85002](https://programmers.co.kr/learn/courses/30/lessons/85002) | [복서 정렬하기](programmers/level1/85002.py)                 |                                            |
 | [86051](https://programmers.co.kr/learn/courses/30/lessons/86051) | [없는 숫자 더하기](programmers/level1/86051.py)              |                                            |
 | [86491](https://programmers.co.kr/learn/courses/30/lessons/86491) | [최소직사각형](programmers/level1/86491.py)                  |                                            |
+| [87389](https://programmers.co.kr/learn/courses/30/lessons/87389) | [나머지가 1이 되는 수 찾기](programmers/level1/87389.py)     |                                            |
 
 
 
