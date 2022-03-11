@@ -368,6 +368,7 @@
 | [81302](https://programmers.co.kr/learn/courses/30/lessons/81302) | [거리두기 확인하기](programmers/level2/81302.py)             | BFS                                                          |
 | [84512](https://programmers.co.kr/learn/courses/30/lessons/84512) | [모음 사전](programmers/level2/84512.py)                     |                                                              |
 | [86048](https://programmers.co.kr/learn/courses/30/lessons/86048) | [입실 퇴실](programmers/level2/86048.py)                     |                                                              |
+| [86052](https://programmers.co.kr/learn/courses/30/lessons/86052) | [빛의 경로 사이클](programmers/level2/86052.py)              |                                                              |
 | [87390](https://programmers.co.kr/learn/courses/30/lessons/87390) | [n^2 배열 자르기](programmers/level2/87390.py)               |                                                              |
 | [87946](https://programmers.co.kr/learn/courses/30/lessons/87946) | [피로도](programmers/level2/87946.py)                        | 순열                                                         |
 
