@@ -121,6 +121,7 @@
 | [7562](https://www.acmicpc.net/problem/7562)   | [나이트의 이동](baekjoon/7562.py)                            | BFS                                                          |
 | [7576](https://www.acmicpc.net/problem/7576)   | [토마토](baekjoon/7576.py)                                   | BFS                                                          |
 | [8911](https://www.acmicpc.net/problem/8911)   | [거북이](baekjoon/8911.py)                                   | 구현, 시뮬레이션                                             |
+| [8979](https://www.acmicpc.net/problem/8979)   | [올림픽](baekjoon/8979.py)                                   | 구현, 정렬                                                   |
 | [9019](https://www.acmicpc.net/problem/9019)   | [DSLR](baekjoon/9019.py)                                     | BFS                                                          |
 | [9095](https://www.acmicpc.net/problem/9095)   | [1, 2, 3 더하기](baekjoon/9095.py)                           | 브루트 포스 \| DP                                            |
 | [9251](https://www.acmicpc.net/problem/9251)   | [LCS](baekjoon/9251.py)                                      | DP                                                           |
