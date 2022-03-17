@@ -132,6 +132,7 @@
 | [9251](https://www.acmicpc.net/problem/9251)   | [LCS](baekjoon/9251.py)                                      | DP                                                           |
 | [9370](https://www.acmicpc.net/problem/9370)   | [미확인 도착지](baekjoon/9370.py)                            | 다익스트라                                                   |
 | [9372](https://www.acmicpc.net/problem/9372)   | [상근이의 여행](baekjoon/9372.py)                            | 최소 신장 트리, 크루스칼                                     |
+| [9461](https://www.acmicpc.net/problem/9461)   | [파도반 수열](baekjoon/9461.py)                              | DP                                                           |
 | [9465](https://www.acmicpc.net/problem/9465)   | [스티커](baekjoon/9465.py)                                   | DP                                                           |
 | [9613](https://www.acmicpc.net/problem/9613)   | [GCD 합](baekjoon/9613.py)                                   | 유클리드 호제법                                              |
 | [9663](https://www.acmicpc.net/problem/9663)   | [N-Queen](baekjoon/9663.py)                                  | 브루트포스, 백트래킹                                         |
