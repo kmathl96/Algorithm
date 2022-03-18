@@ -124,6 +124,7 @@
 | [6603](https://www.acmicpc.net/problem/6603)   | [로또](baekjoon/6603.py)                                     | 브루트 포스, 조합론 \| 재귀                                  |
 | [6987](https://www.acmicpc.net/problem/6987)   | [월드컵](baekjoon/6987.py)                                   | 브루트포스, 백트래킹                                         |
 | [7562](https://www.acmicpc.net/problem/7562)   | [나이트의 이동](baekjoon/7562.py)                            | BFS                                                          |
+| [7569](https://www.acmicpc.net/problem/7569)   | [토마토](baekjoon/7569.py)                                   | BFS                                                          |
 | [7576](https://www.acmicpc.net/problem/7576)   | [토마토](baekjoon/7576.py)                                   | BFS                                                          |
 | [8911](https://www.acmicpc.net/problem/8911)   | [거북이](baekjoon/8911.py)                                   | 구현, 시뮬레이션                                             |
 | [8979](https://www.acmicpc.net/problem/8979)   | [올림픽](baekjoon/8979.py)                                   | 구현, 정렬                                                   |
