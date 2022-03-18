@@ -75,6 +75,7 @@
 | [1934](https://www.acmicpc.net/problem/1934)   | [최소공배수](baekjoon/1934.py)                               | 유클리드 호제법                                              |
 | [1946](https://www.acmicpc.net/problem/1946)   | [신입 사원](baekjoon/1946.py)                                | 그리디, 정렬                                                 |
 | [1956](https://www.acmicpc.net/problem/1956)   | [운동](baekjoon/1956.py)                                     | 플로이드-와샬                                                |
+| [1965](https://www.acmicpc.net/problem/1965)   | [상자넣기](baekjoon/1965.py)                                 | DP                                                           |
 | [1966](https://www.acmicpc.net/problem/1966)   | [프린터 큐](baekjoon/1966.py)                                | 큐, 구현, 자료 구조, 시뮬레이션                              |
 | [1978](https://www.acmicpc.net/problem/1978)   | [소수 찾기](baekjoon/1978.py)                                | 에라토스테네스의 체                                          |
 | [1987](https://www.acmicpc.net/problem/1987)   | [알파벳](baekjoon/1987.py)                                   | DFS, 백트래킹                                                |
