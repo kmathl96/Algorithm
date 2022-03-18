@@ -106,6 +106,7 @@
 | [2606](https://www.acmicpc.net/problem/2606)   | [바이러스](baekjoon/2606.py)                                 | DFS                                                          |
 | [2609](https://www.acmicpc.net/problem/2609)   | 최대공약수와 최소공배수 ([python](baekjoon/2609.py)/[java](baekjoon/src/baekjoon/Prob_2609.java)) | 유클리드 호제법                                              |
 | [2621](https://www.acmicpc.net/problem/2621)   | [카드게임](baekjoon/2621.py)                                 | 구현                                                         |
+| [2631](https://www.acmicpc.net/problem/2631)   | [줄세우기](baekjoon/2631.py)                                 | DP                                                           |
 | [2661](https://www.acmicpc.net/problem/2661)   | [좋은수열](baekjoon/2661.py)                                 | 백트래킹                                                     |
 | [2665](https://www.acmicpc.net/problem/2665)   | [미로만들기](baekjoon/2665.py)                               | 다익스트라                                                   |
 | [2667](https://www.acmicpc.net/problem/2667)   | [단지번호붙이기](baekjoon/2667.py)                           | DFS                                                          |
