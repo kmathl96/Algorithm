@@ -93,6 +93,7 @@
 | [2251](https://www.acmicpc.net/problem/2251)   | [물통](baekjoon/2251.py)                                     | DFS                                                          |
 | [2293](https://www.acmicpc.net/problem/2293)   | [동전 1](baekjoon/2293.py)                                   | DP                                                           |
 | [2294](https://www.acmicpc.net/problem/2294)   | [동전 2](baekjoon/2294.py)                                   | DP                                                           |
+| [2302](https://www.acmicpc.net/problem/2302)   | [극장 좌석](baekjoon/2302.py)                                | DP                                                           |
 | [2304](https://www.acmicpc.net/problem/2304)   | [창고 다각형](baekjoon/2304.py)                              | 브루트 포스 \| 스택                                          |
 | [2309](https://www.acmicpc.net/problem/2309)   | [일곱 난쟁이](baekjoon/2309.py)                              | 브루트 포스                                                  |
 | [2458](https://www.acmicpc.net/problem/2458)   | [키 순서](baekjoon/2458.py)                                  | 플로이드-와샬                                                |
