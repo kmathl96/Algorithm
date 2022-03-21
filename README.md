@@ -81,6 +81,7 @@
 | [1987](https://www.acmicpc.net/problem/1987)   | [알파벳](baekjoon/1987.py)                                   | DFS, 백트래킹                                                |
 | [1991](https://www.acmicpc.net/problem/1991)   | [트리 순회](baekjoon/1991.py)                                | 트리, 재귀                                                   |
 | [2003](https://www.acmicpc.net/problem/2003)   | [수들의 합 2](baekjoon/2003.py)                              | 투 포인터                                                    |
+| [2011](https://www.acmicpc.net/problem/2011)   | [암호코드](baekjoon/2011.py)                                 | DP                                                           |
 | [2110](https://www.acmicpc.net/problem/2110)   | [공유기 설치](baekjoon/2110.py)                              | 이분 탐색                                                    |
 | [2133](https://www.acmicpc.net/problem/2133)   | [타일 채우기](baekjoon/2133.py)                              | DP                                                           |
 | [2143](https://www.acmicpc.net/problem/2143)   | [두 배열의 합](baekjoon/2143.py)                             | 누적 합 \| 이분 탐색                                         |
