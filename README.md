@@ -112,6 +112,7 @@
 | [2661](https://www.acmicpc.net/problem/2661)   | [좋은수열](baekjoon/2661.py)                                 | 백트래킹                                                     |
 | [2665](https://www.acmicpc.net/problem/2665)   | [미로만들기](baekjoon/2665.py)                               | 다익스트라                                                   |
 | [2667](https://www.acmicpc.net/problem/2667)   | [단지번호붙이기](baekjoon/2667.py)                           | DFS                                                          |
+| [2750](https://www.acmicpc.net/problem/2750)   | [수 정렬하기](baekjoon/2750.py)                              | 구현, 정렬                                                   |
 | [2805](https://www.acmicpc.net/problem/2805)   | [나무 자르기](baekjoon/2805.py)                              | 이분 탐색                                                    |
 | [2816](https://www.acmicpc.net/problem/2816)   | [디지털 티비](baekjoon/2816.py)                              | 구현                                                         |
 | [3055](https://www.acmicpc.net/problem/3055)   | [탈출](baekjoon/3055.py)                                     | BFS                                                          |
