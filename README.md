@@ -221,6 +221,7 @@
 | [16926](https://www.acmicpc.net/problem/16926) | [배열 돌리기 1](baekjoon/16926.py)                           | 구현                                                         |
 | [16929](https://www.acmicpc.net/problem/16929) | [Two Dots](baekjoon/16929.py)                                | DFS                                                          |
 | [16931](https://www.acmicpc.net/problem/16931) | [겉넓이 구하기](baekjoon/16931.py)                           | 구현                                                         |
+| [16947](https://www.acmicpc.net/problem/16947) | [서울 지하철 2호선](baekjoon/16947.py)                       | \| DFS, BFS                                                  |
 | [16953](https://www.acmicpc.net/problem/16953) | [A → B](baekjoon/16953.py)                                   | BFS                                                          |
 | [16967](https://www.acmicpc.net/problem/16967) | [배열 복원하기](baekjoon/16967.py)                           | 구현                                                         |
 | [17070](https://www.acmicpc.net/problem/17070) | [파이프 옮기기 1](baekjoon/17070.py)                         | DP                                                           |
