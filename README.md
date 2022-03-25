@@ -87,6 +87,7 @@
 | [2143](https://www.acmicpc.net/problem/2143)   | [두 배열의 합](baekjoon/2143.py)                             | 누적 합 \| 이분 탐색                                         |
 | [2146](https://www.acmicpc.net/problem/2146)   | [다리 만들기](baekjoon/2146.py)                              | BFS                                                          |
 | [2156](https://www.acmicpc.net/problem/2156)   | [포도주 시식](baekjoon/2156.py)                              | DP                                                           |
+| [2167](https://www.acmicpc.net/problem/2167)   | [2차원 배열의 합](baekjoon/2167.py)                          | 구현, 누적 합                                                |
 | [2178](https://www.acmicpc.net/problem/2178)   | [미로 탐색](baekjoon/2178.py)                                | BFS                                                          |
 | [2193](https://www.acmicpc.net/problem/2193)   | [이친수](baekjoon/2193.py)                                   | DP                                                           |
 | [2206](https://www.acmicpc.net/problem/2206)   | [벽 부수고 이동하기](baekjoon/2206.py)                       | BFS                                                          |
