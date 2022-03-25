@@ -125,6 +125,7 @@
 | [4963](https://www.acmicpc.net/problem/4963)   | [섬의 개수](baekjoon/4963.py)                                | BFS                                                          |
 | [5052](https://www.acmicpc.net/problem/5052)   | [전화번호 목록](baekjoon/5052.py)                            | 문자열, 정렬 \| 트리, 트라이                                 |
 | [5557](https://www.acmicpc.net/problem/5557)   | [1학년](baekjoon/5557.py)                                    | DP                                                           |
+| [5582](https://www.acmicpc.net/problem/5582)   | [공통 부분 문자열](baekjoon/5582.py)                         | DP, 문자열                                                   |
 | [6064](https://www.acmicpc.net/problem/6064)   | [카잉 달력](baekjoon/6064.py)                                | 수학, 정수론, 중국인의 나머지 정리                           |
 | [6588](https://www.acmicpc.net/problem/6588)   | [골드바흐의 추측](baekjoon/6588.py)                          | 에라토스테네스의 체                                          |
 | [6603](https://www.acmicpc.net/problem/6603)   | [로또](baekjoon/6603.py)                                     | 브루트 포스, 조합론 \| 재귀                                  |
