@@ -125,6 +125,7 @@
 | [3649](https://www.acmicpc.net/problem/3649)   | [로봇 프로젝트](baekjoon/3649.py)                            | 정렬, 투 포인터                                              |
 | [4485](https://www.acmicpc.net/problem/4485)   | [녹색 옷 입은 애가 젤다지?](baekjoon/4485.py)                | 다익스트라                                                   |
 | [4963](https://www.acmicpc.net/problem/4963)   | [섬의 개수](baekjoon/4963.py)                                | BFS                                                          |
+| [5014](https://www.acmicpc.net/problem/5014)   | [스타트링크](baekjoon/5014.py)                               | BFS                                                          |
 | [5052](https://www.acmicpc.net/problem/5052)   | [전화번호 목록](baekjoon/5052.py)                            | 문자열, 정렬 \| 트리, 트라이                                 |
 | [5557](https://www.acmicpc.net/problem/5557)   | [1학년](baekjoon/5557.py)                                    | DP                                                           |
 | [5582](https://www.acmicpc.net/problem/5582)   | [공통 부분 문자열](baekjoon/5582.py)                         | DP, 문자열                                                   |
