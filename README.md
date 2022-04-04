@@ -58,6 +58,7 @@
 | [1699](https://www.acmicpc.net/problem/1699)   | [제곱수의 합](baekjoon/1699.py)                              | DP, 수학, 정수론                                             |
 | [1700](https://www.acmicpc.net/problem/1700)   | [멀티탭 스케줄링](baekjoon/1700.py)                          | 그리디                                                       |
 | [1707](https://www.acmicpc.net/problem/1707)   | [이분 그래프](baekjoon/1707.py)                              | BFS                                                          |
+| [1715](https://www.acmicpc.net/problem/1715)   | [카드 정렬하기](baekjoon/1715.py)                            | 자료 구조, 그리디, 우선순위 큐                               |
 | [1747](https://www.acmicpc.net/problem/1747)   | [소수&팰린드롬](baekjoon/1747.py)                            | 수학, 브루트포스, 정수론, 소수 판정, 에라토스테네스의 체     |
 | [1748](https://www.acmicpc.net/problem/1748)   | [수 이어 쓰기 1](baekjoon/1748.py)                           | 수학, 구현                                                   |
 | [1753](https://www.acmicpc.net/problem/1753)   | [최단경로](baekjoon/1753.py)                                 | 다익스트라                                                   |
