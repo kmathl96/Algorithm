@@ -120,6 +120,7 @@
 | [2751](https://www.acmicpc.net/problem/2751)   | [수 정렬하기 2](baekjoon/2751.py)                            | 정렬                                                         |
 | [2805](https://www.acmicpc.net/problem/2805)   | [나무 자르기](baekjoon/2805.py)                              | 이분 탐색                                                    |
 | [2816](https://www.acmicpc.net/problem/2816)   | [디지털 티비](baekjoon/2816.py)                              | 구현                                                         |
+| [2869](https://www.acmicpc.net/problem/2869)   | [달팽이는 올라가고 싶다](baekjoon/2869.py)                   | 수학                                                         |
 | [3055](https://www.acmicpc.net/problem/3055)   | [탈출](baekjoon/3055.py)                                     | BFS                                                          |
 | [3085](https://www.acmicpc.net/problem/3085)   | [사탕 게임](baekjoon/3085.py)                                | 구현, 브루트포스                                             |
 | [3460](https://www.acmicpc.net/problem/3460)   | 이진수 ([java](baekjoon/src/baekjoon/Prob_3460.java))        | 수학, 구현                                                   |
