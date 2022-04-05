@@ -35,6 +35,7 @@
 | [1182](https://www.acmicpc.net/problem/1182)   | [부분수열의 합](baekjoon/1182.py)                            | 브루트 포스                                                  |
 | [1197](https://www.acmicpc.net/problem/1197)   | [최소 스패닝 트리](baekjoon/1197.py)                         | MST, 크루스칼 \| 프림                                        |
 | [1205](https://www.acmicpc.net/problem/1205)   | [등수 구하기](baekjoon/1205.py)                              | 구현                                                         |
+| [1208](https://www.acmicpc.net/problem/1208)   | [부분수열의 합 2](baekjoon/1208.py)                          | 이분 탐색                                                    |
 | [1238](https://www.acmicpc.net/problem/1238)   | [파티](baekjoon/1238.py)                                     | 다익스트라                                                   |
 | [1260](https://www.acmicpc.net/problem/1260)   | [DFS와 BFS](baekjoon/1260.py)                                | DFS, BFS                                                     |
 | [1261](https://www.acmicpc.net/problem/1261)   | [알고스팟](baekjoon/1261.py)                                 | BFS \| 다익스트라                                            |
