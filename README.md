@@ -95,6 +95,7 @@
 | [2178](https://www.acmicpc.net/problem/2178)   | [미로 탐색](baekjoon/2178.py)                                | BFS                                                          |
 | [2193](https://www.acmicpc.net/problem/2193)   | [이친수](baekjoon/2193.py)                                   | DP                                                           |
 | [2206](https://www.acmicpc.net/problem/2206)   | [벽 부수고 이동하기](baekjoon/2206.py)                       | BFS                                                          |
+| [2217](https://www.acmicpc.net/problem/2217)   | [로프](baekjoon/2217.py)                                     | 그리디, 정렬                                                 |
 | [2225](https://www.acmicpc.net/problem/2225)   | [합분해](baekjoon/2225.py)                                   | DP                                                           |
 | [2251](https://www.acmicpc.net/problem/2251)   | [물통](baekjoon/2251.py)                                     | DFS                                                          |
 | [2293](https://www.acmicpc.net/problem/2293)   | [동전 1](baekjoon/2293.py)                                   | DP                                                           |
