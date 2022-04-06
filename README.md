@@ -109,6 +109,7 @@
 | [2501](https://www.acmicpc.net/problem/2501)   | 약수 구하기 ([java](baekjoon/src/baekjoon/Prob_2501.java))   | 수학, 브루트포스                                             |
 | [2512](https://www.acmicpc.net/problem/2512)   | [예산](baekjoon/2512.py)                                     | 이분 탐색                                                    |
 | [2529](https://www.acmicpc.net/problem/2529)   | [부등호](baekjoon/2529.py)                                   | 브루트포스, 백트래킹                                         |
+| [2573](https://www.acmicpc.net/problem/2573)   | [빙산](baekjoon/2573.py)                                     | 구현, DFS                                                    |
 | [2579](https://www.acmicpc.net/problem/2579)   | [계단 오르기](baekjoon/2579.py)                              | DP                                                           |
 | [2580](https://www.acmicpc.net/problem/2580)   | [스도쿠](baekjoon/2580.py)                                   | 백트래킹, DFS                                                |
 | [2606](https://www.acmicpc.net/problem/2606)   | [바이러스](baekjoon/2606.py)                                 | DFS                                                          |
