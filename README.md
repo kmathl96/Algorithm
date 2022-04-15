@@ -171,6 +171,7 @@
 | [10972](https://www.acmicpc.net/problem/10972) | [다음 순열](baekjoon/10972.py)                               | 브루트 포스, 수학                                            |
 | [10973](https://www.acmicpc.net/problem/10973) | [이전 순열](baekjoon/10973.py)                               | 브루트 포스, 수학                                            |
 | [10974](https://www.acmicpc.net/problem/10974) | [모든 순열](baekjoon/10974.py)                               | 브루트 포스                                                  |
+| [10989](https://www.acmicpc.net/problem/10989) | [수 정렬하기 3](baekjoon/10989.py)                           | 정렬                                                         |
 | [11047](https://www.acmicpc.net/problem/11047) | [동전 0](baekjoon/11047.py)                                  | 그리디 알고리즘                                              |
 | [11048](https://www.acmicpc.net/problem/11048) | [이동하기](baekjoon/11048.py)                                | DP                                                           |
 | [11052](https://www.acmicpc.net/problem/11052) | [카드 구매하기](baekjoon/11052.py)                           | DP                                                           |
