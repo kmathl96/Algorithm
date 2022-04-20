@@ -265,6 +265,7 @@
 | [20528](https://www.acmicpc.net/problem/20528) | [끝말잇기](baekjoon/201231_GoodByeBOJ2020/a.py)              | 문자열 \| 애드 혹                                            |
 | [20529](https://www.acmicpc.net/problem/20529) | [가장 가까운 세 사람의 심리적 거리](baekjoon/20529.py)       | 브루트 포스, 비둘기집의 원리                                 |
 | [21608](https://www.acmicpc.net/problem/21608) | [상어 초등학교](baekjoon/21608.py)                           | 구현                                                         |
+| [21609](https://www.acmicpc.net/problem/21609) | [상어 중학교](baekjoon/21609.py)                             | 구현, 시뮬레이션, DFS                                        |
 | [21610](https://www.acmicpc.net/problem/21610) | [마법사 상어와 비바라기](baekjoon/21610.py)                  | 구현, 시뮬레이션                                             |
 
 
