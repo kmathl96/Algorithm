@@ -262,6 +262,7 @@
 | [20056](https://www.acmicpc.net/problem/20056) | [마법사 상어와 파이어볼](baekjoon/20056.py)                  | 구현, 시뮬레이션                                             |
 | [20057](https://www.acmicpc.net/problem/20057) | [마법사 상어와 토네이도](baekjoon/20057.py)                  | 구현, 시뮬레이션                                             |
 | [20058](https://www.acmicpc.net/problem/20058) | [마법사 상어와 파이어스톰](baekjoon/20058.py)                | 구현, DFS, 시뮬레이션                                        |
+| [20061](https://www.acmicpc.net/problem/20061) | [모노미노도미노 2](baekjoon/20061.py)                        | 구현, 시뮬레이션                                             |
 | [20528](https://www.acmicpc.net/problem/20528) | [끝말잇기](baekjoon/201231_GoodByeBOJ2020/a.py)              | 문자열 \| 애드 혹                                            |
 | [20529](https://www.acmicpc.net/problem/20529) | [가장 가까운 세 사람의 심리적 거리](baekjoon/20529.py)       | 브루트 포스, 비둘기집의 원리                                 |
 | [21608](https://www.acmicpc.net/problem/21608) | [상어 초등학교](baekjoon/21608.py)                           | 구현                                                         |
