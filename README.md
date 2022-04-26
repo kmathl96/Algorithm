@@ -136,6 +136,7 @@
 | [4963](https://www.acmicpc.net/problem/4963)   | [섬의 개수](baekjoon/4963.py)                                | BFS                                                          |
 | [5014](https://www.acmicpc.net/problem/5014)   | [스타트링크](baekjoon/5014.py)                               | BFS                                                          |
 | [5052](https://www.acmicpc.net/problem/5052)   | [전화번호 목록](baekjoon/5052.py)                            | 문자열, 정렬 \| 트리, 트라이                                 |
+| [5427](https://www.acmicpc.net/problem/5427)   | [불](baekjoon/5427.py)                                       | BFS                                                          |
 | [5557](https://www.acmicpc.net/problem/5557)   | [1학년](baekjoon/5557.py)                                    | DP                                                           |
 | [5582](https://www.acmicpc.net/problem/5582)   | [공통 부분 문자열](baekjoon/5582.py)                         | DP, 문자열                                                   |
 | [6064](https://www.acmicpc.net/problem/6064)   | [카잉 달력](baekjoon/6064.py)                                | 수학, 정수론, 중국인의 나머지 정리                           |
@@ -469,4 +470,3 @@
 | [59415](https://programmers.co.kr/learn/courses/30/lessons/59415) | [최댓값 구하기](programmers/sql/59415.sql)                  | SUM, MAX, MIN                  |
 | [62284](https://programmers.co.kr/learn/courses/30/lessons/62284) | [우유와 요거트가 담긴 장바구니](programmers/sql/62284.sql)  | GROUP BY, DISTINCT             |
 | [77487](https://programmers.co.kr/learn/courses/30/lessons/77487) | [헤비 유저가 소유한 장소](programmers/sql/77487.sql)        | 서브쿼리                       |
-
