@@ -33,6 +33,7 @@
 | [1110](https://www.acmicpc.net/problem/1110)   | [더하기 사이클](baekjoon/1110.py)                            | 수학, 구현                                                   |
 | [1149](https://www.acmicpc.net/problem/1149)   | [RGB거리](baekjoon/1149.py)                                  | DP                                                           |
 | [1182](https://www.acmicpc.net/problem/1182)   | [부분수열의 합](baekjoon/1182.py)                            | 브루트 포스                                                  |
+| [1194](https://www.acmicpc.net/problem/1194)   | [달이 차오른다, 가자.](baekjoon/1194.py)                     | BFS, 비트마스킹                                              |
 | [1197](https://www.acmicpc.net/problem/1197)   | [최소 스패닝 트리](baekjoon/1197.py)                         | MST, 크루스칼 \| 프림                                        |
 | [1205](https://www.acmicpc.net/problem/1205)   | [등수 구하기](baekjoon/1205.py)                              | 구현                                                         |
 | [1208](https://www.acmicpc.net/problem/1208)   | [부분수열의 합 2](baekjoon/1208.py)                          | 이분 탐색                                                    |
