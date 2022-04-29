@@ -143,6 +143,7 @@
 | [5557](https://www.acmicpc.net/problem/5557)   | [1학년](baekjoon/5557.py)                                    | DP                                                           |
 | [5582](https://www.acmicpc.net/problem/5582)   | [공통 부분 문자열](baekjoon/5582.py)                         | DP, 문자열                                                   |
 | [6064](https://www.acmicpc.net/problem/6064)   | [카잉 달력](baekjoon/6064.py)                                | 수학, 정수론, 중국인의 나머지 정리                           |
+| [6087](https://www.acmicpc.net/problem/6087)   | [레이저 통신](baekjoon/6087.py)                              | 다익스트라                                                   |
 | [6588](https://www.acmicpc.net/problem/6588)   | [골드바흐의 추측](baekjoon/6588.py)                          | 에라토스테네스의 체                                          |
 | [6603](https://www.acmicpc.net/problem/6603)   | [로또](baekjoon/6603.py)                                     | 브루트 포스, 조합론 \| 재귀                                  |
 | [6987](https://www.acmicpc.net/problem/6987)   | [월드컵](baekjoon/6987.py)                                   | 브루트포스, 백트래킹                                         |
