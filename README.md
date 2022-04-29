@@ -41,6 +41,7 @@
 | [1260](https://www.acmicpc.net/problem/1260)   | [DFS와 BFS](baekjoon/1260.py)                                | DFS, BFS                                                     |
 | [1261](https://www.acmicpc.net/problem/1261)   | [알고스팟](baekjoon/1261.py)                                 | BFS \| 다익스트라                                            |
 | [1309](https://www.acmicpc.net/problem/1309)   | [동물원](baekjoon/1309.py)                                   | DP                                                           |
+| [1331](https://www.acmicpc.net/problem/1331)   | [나이트 투어](baekjoon/1331.py)                              | 구현, 시뮬레이션                                             |
 | [1339](https://www.acmicpc.net/problem/1339)   | [단어 수학](baekjoon/1339.py)                                | 그리디, 브루트포스                                           |
 | [1340](https://www.acmicpc.net/problem/1340)   | [연도 진행바](baekjoon/201231_%EC%83%88%ED%95%B4/a.py)       | 구현,  문자열, 파싱                                          |
 | [1389](https://www.acmicpc.net/problem/1389)   | [케빈 베이컨의 6단계 법칙](baekjoon/1389.py)                 | 플로이드-와샬 \| BFS                                         |
