@@ -242,6 +242,7 @@
 | [16236](https://www.acmicpc.net/problem/16236) | [아기 상어](baekjoon/16236.py)                               | 구현, BFS, 시뮬레이션                                        |
 | [16637](https://www.acmicpc.net/problem/16637) | [괄호 추가하기](baekjoon/16637.py)                           | 브루트 포스                                                  |
 | [16926](https://www.acmicpc.net/problem/16926) | [배열 돌리기 1](baekjoon/16926.py)                           | 구현                                                         |
+| [16928](https://www.acmicpc.net/problem/16928) | [뱀과 사다리 게임](baekjoon/16928.py)                        | BFS                                                          |
 | [16929](https://www.acmicpc.net/problem/16929) | [Two Dots](baekjoon/16929.py)                                | DFS                                                          |
 | [16931](https://www.acmicpc.net/problem/16931) | [겉넓이 구하기](baekjoon/16931.py)                           | 구현                                                         |
 | [16935](https://www.acmicpc.net/problem/16935) | [배열 돌리기 3](baekjoon/16935.py)                           | 구현                                                         |
