@@ -57,6 +57,7 @@
 | [1644](https://www.acmicpc.net/problem/1644)   | [소수의 연속합](baekjoon/1644.py)                            | 투 포인터, 에라토스테네스의 체, 수학, 정수론                 |
 | [1652](https://www.acmicpc.net/problem/1652)   | [누울 자리를 찾아라](baekjoon/1652.py)                       | 구현, 문자열                                                 |
 | [1654](https://www.acmicpc.net/problem/1654)   | [랜선 자르기](baekjoon/1654.py)                              | 이분 탐색, 매개 변수 탐색                                    |
+| [1655](https://www.acmicpc.net/problem/1655)   | [가운데를 말해요](baekjoon/1655.py)                          | 우선순위 큐                                                  |
 | [1662](https://www.acmicpc.net/problem/1662)   | [압축](baekjoon/1662.py)                                     | 스택, 재귀                                                   |
 | [1697](https://www.acmicpc.net/problem/1697)   | [숨바꼭질](baekjoon/1697.py)                                 | BFS                                                          |
 | [1699](https://www.acmicpc.net/problem/1699)   | [제곱수의 합](baekjoon/1699.py)                              | DP, 수학, 정수론                                             |
