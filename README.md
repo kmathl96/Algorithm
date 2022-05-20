@@ -14,6 +14,7 @@
   - [Level 3](#level-3) :hatched_chick:
   - [Level 4](#level-4) :chicken:
   - [SQL](#sql) :dolphin: ​(알고리즘은 아니지만ㅎ)
+- [소프티어](#softeer)
 
 
 
@@ -479,3 +480,12 @@
 | [59415](https://programmers.co.kr/learn/courses/30/lessons/59415) | [최댓값 구하기](programmers/sql/59415.sql)                  | SUM, MAX, MIN                  |
 | [62284](https://programmers.co.kr/learn/courses/30/lessons/62284) | [우유와 요거트가 담긴 장바구니](programmers/sql/62284.sql)  | GROUP BY, DISTINCT             |
 | [77487](https://programmers.co.kr/learn/courses/30/lessons/77487) | [헤비 유저가 소유한 장소](programmers/sql/77487.sql)        | 서브쿼리                       |
+
+
+
+## Softeer
+
+| 문제                                                         | 문제 제목                           |
+| ------------------------------------------------------------ | ----------------------------------- |
+| [624](https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=624) | [전광판](softeer/src/Prob_624.java) |
+
