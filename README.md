@@ -222,6 +222,7 @@
 | [14500](https://www.acmicpc.net/problem/14500) | [테트로미노](baekjoon/14500.py)                              | 구현, 브루트 포스                                            |
 | [14501](https://www.acmicpc.net/problem/14501) | [퇴사](baekjoon/14501.py)                                    | 브루트 포스 \| DP                                            |
 | [14503](https://www.acmicpc.net/problem/14503) | [로봇 청소기](baekjoon/14503.py)                             | 구현, 시뮬레이션                                             |
+| [14620](https://www.acmicpc.net/problem/14620) | [꽃길](baekjoon/14620.py)                                    | 브루트포스, DFS                                              |
 | [14719](https://www.acmicpc.net/problem/14719) | [빗물](baekjoon/14719.py)                                    | 구현, 시뮬레이션                                             |
 | [14888](https://www.acmicpc.net/problem/14888) | [연산자 끼워넣기](baekjoon/14888.py)                         | 브루트 포스, 백트래킹                                        |
 | [14889](https://www.acmicpc.net/problem/14889) | [스타트와 링크](baekjoon/14889.py)                           | 브루트 포스, 백트래킹, 비트 마스크                           |
