@@ -144,6 +144,7 @@
 | [5014](https://www.acmicpc.net/problem/5014)   | [스타트링크](baekjoon/5014.py)                               | BFS                                                          |
 | [5052](https://www.acmicpc.net/problem/5052)   | [전화번호 목록](baekjoon/5052.py)                            | 문자열, 정렬 \| 트리, 트라이                                 |
 | [5427](https://www.acmicpc.net/problem/5427)   | [불](baekjoon/5427.py)                                       | BFS                                                          |
+| [5430](https://www.acmicpc.net/problem/5430)   | [AC](baekjoon/5430.py)                                       | 구현, 문자열, 파싱, 덱                                       |
 | [5557](https://www.acmicpc.net/problem/5557)   | [1학년](baekjoon/5557.py)                                    | DP                                                           |
 | [5582](https://www.acmicpc.net/problem/5582)   | [공통 부분 문자열](baekjoon/5582.py)                         | DP, 문자열                                                   |
 | [6064](https://www.acmicpc.net/problem/6064)   | [카잉 달력](baekjoon/6064.py)                                | 수학, 정수론, 중국인의 나머지 정리                           |
