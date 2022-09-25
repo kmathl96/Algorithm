@@ -33,6 +33,7 @@
 | [1107](https://www.acmicpc.net/problem/1107)   | [리모컨](baekjoon/1107.py)                                   | 브루트포스                                                   |
 | [1110](https://www.acmicpc.net/problem/1110)   | [더하기 사이클](baekjoon/1110.py)                            | 수학, 구현                                                   |
 | [1149](https://www.acmicpc.net/problem/1149)   | [RGB거리](baekjoon/1149.py)                                  | DP                                                           |
+| [1181](https://www.acmicpc.net/problem/1181)   | [단어 정렬](baekjoon/1181.py)                                | 문자열, 정렬                                                 |
 | [1182](https://www.acmicpc.net/problem/1182)   | [부분수열의 합](baekjoon/1182.py)                            | 브루트 포스                                                  |
 | [1194](https://www.acmicpc.net/problem/1194)   | [달이 차오른다, 가자.](baekjoon/1194.py)                     | BFS, 비트마스킹                                              |
 | [1197](https://www.acmicpc.net/problem/1197)   | [최소 스패닝 트리](baekjoon/1197.py)                         | MST, 크루스칼 \| 프림                                        |
